@@ -1,18 +1,5 @@
-https://www.npmjs.com/package/google-url
-https://github.com/puppeteer/puppeteer
+# Scraping project based on Node.js
 
-# node version
-16.17.0
+- Result
 
-# npm version
-18.15.0
-
-# How to run
-## installing node modules
-`npm i`
-
-## to strap site 1
-`npm start 1`
-
-## sto strap site 11-1
-`npm start 11-1`
+![image](https://github.com/topmsdreamer/getting-informations-from-several-websites/assets/128351913/27cb6ea2-0b16-43c1-bbdf-7efac3f44f48)
