@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "4849 NE 138TH AVE,PORTLAND,OR,97230-3401,USA",
+                "addr:street": "4849 NE 138TH AVE",
+                "addr:city": "PORTLAND",
+                "addr:state": "OR",
+                "addr:country": "USA",
+                "addr:postcode": "97230-3401",
+                "name": "Portland Warehouse",
+                "phones": {
+                    "Store": [
+                        "(503) 252-2243"
+                    ],
+                    "Tire Service Center": [
+                        "(503) 258-3708"
+                    ],
+                    "Pharmacy": [
+                        "(503) 257-3935"
+                    ],
+                    "Optical Department": [
+                        "(503) 257-3557"
+                    ],
+                    "Hearing Aids": [
+                        "(503) 258-3713"
+                    ]
+                },
+                "fax": {
+                    "Pharmacy": [
+                        "(503) 257-3936"
+                    ]
+                },
+                "store_url": "https://www.costco.com/warehouse-locations/portland-or-2.html",
+                "website": "https://www.costco.com",
+                "operatingHours": {
+                    "Store": [
+                        "M-F 09:30-20:30",
+                        "Sa 09:30-19:00",
+                        "Su 10:00-18:00"
+                    ],
+                    "Gas Station": [
+                        "Mo-Fr 06:00-21:30",
+                        "Sa 07:00-19:00",
+                        "Su 07:00-19:00"
+                    ],
+                    "Tire Service Center": [
+                        "Mo-Fr 10:00-20:30, Sa 09:30-18:00, Su 10:00-18:00"
+                    ],
+                    "Pharmacy": [
+                        "M-F 10:00-20:30, Sa 09:30-18:00"
+                    ],
+                    "operatingHoursNotes": {
+                        "Store": "Memorial Day Closed",
+                        "Gas Station": "Memorial Day Closed",
+                        "Pharmacy": "SUN CLOSED"
+                    }
+                },
+                "services": {
+                    "Departments and Specialty Items": [
+                        "ATM",
+                        "Bakery",
+                        "Executive Membership"
+                    ]
+                },
+                "brand": "Costco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45.5591217, 22.5215676"
+                ]
+            }
+        }
+    ]
+}

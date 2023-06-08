@@ -1,0 +1,2598 @@
+{
+  "type": "Feature",
+  "name": "Saigon's restaurant and cafe",
+  "POI:Category": "Restaurant",
+  "store_url": "https://saigoneer.com/listings/category-items/1-listings/13-eat-and-drink",
+  "website": "https://saigoneer.com",
+  "properties": {
+    "attributes": [
+      {
+        "name": "'NAMO Italian Restaurant ",
+        "description": "The ‘NAMO brand represents Saigon’s premiere, new Italian dining experience ranging from the mozzarella-based gourmet pizzas reminiscent of Napoli, to classically prepared seared meats redolent of the rolling hills of Toscana.",
+        "phone": "+84 83 2810 888",
+        "address": "74/6 Hai Ba Trung, District 1"
+      },
+      {
+        "name": "89 Tôn Thất Đàm ",
+        "description": "A No-Name Chợ Cũ Food Collective to Satisfy All Your Snack Cravings",
+        "phone": "",
+        "address": "89 Tôn Thất Đạm, P. Bến Nghé, Quận 1"
+      },
+      {
+        "name": "ABC Bakery ",
+        "description": "Cafe and bakery serving Vietnamese and Western pastries.",
+        "phone": "028 3836 4213",
+        "address": "223-225 Phạm Ngũ Lão, Phạm Ngũ Lão, Q1"
+      },
+      {
+        "name": "Acoustic Bar ",
+        "description": "Cafe that specializes in live music.",
+        "phone": "028 3930 2239",
+        "address": "6E Ngô Thời Nhiệm, 7, Q3"
+      },
+      {
+        "name": "Al Sham Saigon ",
+        "description": "Chef Badeh Brings Syrian Cuisine to Saigon",
+        "phone": "098 459 71 60",
+        "address": "300 Võ Văn Kiệt, P. Cô Giang, Quận 1"
+      },
+      {
+        "name": "Alambé Finest Vietnamese Coffee ",
+        "description": "Alambé is dedicated to offering its customers the Finest Vietnamese Coffee - carefully selected from producers, roasted to perfection and finally, elegantly packaged.",
+        "phone": "+84 (0) 28 6683 53 00",
+        "address": "14A Street 22, Linh Dong Ward, Thu Duc District"
+      },
+      {
+        "name": "An Miên Coffee ",
+        "description": "The retro coffee shop's range of quirky drinks seasoned with local flavors like lá dứa or ginger.",
+        "phone": "090 256 83 11",
+        "address": "29 Hoa Mai, Phường 2, Quận Phú Nhuận"
+      },
+      {
+        "name": "ANAN Saigon ",
+        "description": "ANAN Saigon is a new Vietnamese restaurant located in District 1 in the center of Saigon specializing in Vietnamese street food-inspired dishes by the award-winning chef Peter Cuong Franklin.",
+        "phone": "0904792920",
+        "address": "89 Ton That Dam, District 1"
+      },
+      {
+        "name": "Anh Ba ",
+        "description": "Eatery that focuses on beef dishes. Famous for its vinegar hotpot.",
+        "phone": "098 287 77 08",
+        "address": "460 Phan Xích Long, 3, Q Phú Nhuận"
+      },
+      {
+        "name": "Annam Gourmet ",
+        "description": "Annam Gourmet commits itself into being Vietnam’s finest food and beverage lifestyle store, bringing to Vietnam a wide-range of high quality and exceptional value gourmet food and drinks.",
+        "phone": "1900 636431",
+        "address": "65 Le Loi St., Ben Nghe Ward, D.1, Ho Chi Minh16-18 Hai Ba Trung St., Ben Nghe Ward, D.1, Ho Chi Minh41A Thao Dien St., Thao Dien Ward, D.2, Ho Chi Minh"
+      },
+      {
+        "name": "Au Lac Do Brazil ",
+        "description": "Brazilian BBQ served in Rodizio style.",
+        "phone": "028 3820 7157",
+        "address": "238 Pasteur, Q3"
+      },
+      {
+        "name": "Au Pagolac ",
+        "description": "Saigon's Original Bò 7 Món",
+        "phone": "090 391 81 46",
+        "address": "978 Trần Hưng Đạo, Q5"
+      },
+      {
+        "name": "Au Parc ",
+        "description": "Au Parc features Mediterranean and Middle Eastern cuisine, good affordable wines, Italian coffee and 100% natural freshly prepared juices and smoothies.",
+        "phone": "028 3829 2772",
+        "address": "23 Hàn Thuyên, Bến Nghé, Q1"
+      },
+      {
+        "name": "Avenue Saigon ",
+        "description": "Local Eatery with Western and Asian food. Draft beer and handcrafted cocktails.",
+        "phone": "039 380 3533",
+        "address": "Sun Avenue SAV4.00.12 28 Mai Chi Tho, District 2, HCMC"
+      },
+      {
+        "name": "Baba's Kitchen ",
+        "description": "Baba’s Kitchen opened it’s first restaurant on Sept. 2, 2011, in the famous Pham Ngu Lao backpacker area located in Saigon’s District 1. The aim of Baba’s was to provide Vietnam with authentic Indian cuisine with Thai and Sri Lankan cuisines in Q2",
+        "phone": "+84 2838386661",
+        "address": "274 Bui Vien Street, Phan Ngu Lao Ward, District 1"
+      },
+      {
+        "name": "BAKES ",
+        "description": "Bakes is patisserie with the simple idea that enjoying pastry should excite all your senses, like love. 10% off for the time being.",
+        "phone": "0902774244",
+        "address": "267/2 Dien Bien Phu, District 3"
+      },
+      {
+        "name": "Banan Bakery & Cafe ",
+        "description": "Handcrafted desserts with a Japanese twist. Baked Fresh Daily. Pre-order is recommended. Delivery & Pick-up Everyday (except Monday)",
+        "phone": "0868 897 131",
+        "address": "34 Ngo Quang Huy, Thao Dien Ward, Thu Duc City"
+      },
+      {
+        "name": "Bandido Saigon ",
+        "description": "Our menu is inspired by the delicious street food and colorful street culture, with our own creative twist. Featuring antojitos—Mexican small plates—ceviches and sexy tacos, plus special margaritas, tequila and mezcal.",
+        "phone": "0868885600",
+        "address": "24bis Dong Du, District 1"
+      },
+      {
+        "name": "Bánh Bao Chiên Lý Chính Thắng ",
+        "description": "VND 6,000 each – these are well worth it.",
+        "phone": "",
+        "address": "Lý Chính Thắng, Q.3"
+      },
+      {
+        "name": "Bánh Bèo Chén ",
+        "description": "Good Bánh Bèo Comes to Those Who Wait",
+        "phone": "",
+        "address": "130 Đinh Bộ Lĩnh, Bình Thạnh"
+      },
+      {
+        "name": "Bánh Bèo Cô Mai Phú Yên ",
+        "description": "The Green Delight of Phu Yen's Bánh Canh Hẹ",
+        "phone": "",
+        "address": "54 Hoa Sứ, Phường 7, Phú Nhuận"
+      },
+      {
+        "name": "Bánh Căn Đà Lạt & Bánh Ướt Lòng Gà ",
+        "description": "The Best Bánh Căn Da Lat...in Saigon",
+        "phone": "",
+        "address": "58/8 Đồng Nai, P. 15, Quận 10"
+      },
+      {
+        "name": "Bánh Canh Cua 87 ",
+        "description": "Tan Dinh's All-Conquering Bánh Canh Cua",
+        "phone": "",
+        "address": "87 Trần Khắc Chân, P. Tân Định, Quận 1"
+      },
+      {
+        "name": "Bánh Canh Ghẹ Muối Ớt Xanh ",
+        "description": "Conquering the Crab in D10",
+        "phone": "",
+        "address": "484 Nguyễn Tri Phương, Q10"
+      },
+      {
+        "name": "Bánh Canh Trà Vinh ",
+        "description": "Mekong Delta-style of hủ tiếu, bánh canh and cháo lòng.",
+        "phone": "",
+        "address": "159 Đường Tôn Đản, Phường 14, Quận 4"
+      },
+      {
+        "name": "Bánh Cuốn Hải Nam ",
+        "description": "One of Saigon’s most well known bánh cuốn restaurants.",
+        "phone": "028 3839 3394",
+        "address": "11A Cao Thắng, Phường 2, Quận 3"
+      },
+      {
+        "name": "Bánh Cuốn Trứng ",
+        "description": "The Life-Changing Beauty of Bánh Cuốn Trứng",
+        "phone": "",
+        "address": "55/19 Vạn Kiếp, Phường 3, Bình Thạnh"
+      },
+      {
+        "name": "Bánh Flan Quỳnh Hoa ",
+        "description": "Dessert Happy Hour at Quynh Hoa",
+        "phone": "",
+        "address": "Hẻm 195 Hoàng Diệu, Quận 4, TP. HCM"
+      },
+      {
+        "name": "Bánh Mì Chảo ",
+        "description": "In case anyone is looking for a quick, filling District 1 breakfast.",
+        "phone": "",
+        "address": "2 Đặng Trần Côn, Phường Bến Thành, Quận 1"
+      },
+      {
+        "name": "Bánh Mì Hoà Mã ",
+        "description": "Saigon’s Original Bánh Mì Breakfast",
+        "phone": "",
+        "address": "53 Cao Thắng, Q3"
+      },
+      {
+        "name": "Bánh Tằm and Hủ Tiếu Sa Đéc ",
+        "description": "Apart from its famous bánh tằm bì, Sadec Quan also offers a variety of novel choices in terms of toppings. Beef balls, offal, fish and vegetables are all available options. It serves a variety of desserts too, including bánh lọt lá dứa, or pandan green jelly droplets in coconut milk.",
+        "phone": "",
+        "address": "154 Nguyen Dinh Chieu, District 3"
+      },
+      {
+        "name": "Bánh Tằm Bì Tô Châu ",
+        "description": "Hear Us Out, Coconut Milk and Fish Sauce Are Actually Great Together",
+        "phone": "",
+        "address": "611/62B Điện Biên Phủ, Phường 1, Quận 3, Hồ Chí Minh"
+      },
+      {
+        "name": "Bánh Ướt Ban Mê ",
+        "description": "Pass the Bánh Ướt on the Left-Hand Side",
+        "phone": "",
+        "address": "293E Phan Xich Long, Ward 2, Phu Nhuan District"
+      },
+      {
+        "name": "Bánh Ướt Nóng Uyên ",
+        "description": "A Perfect Saigon Breakfast",
+        "phone": "",
+        "address": "15 Phan Văn Trị, P.14, Bình Thạnh"
+      },
+      {
+        "name": "Bánh Xèo Bình Thuận ",
+        "description": "Bánh xèo vendor who sells a delicious, savory, coastal-style Vietnamese pancake with no assembly required.",
+        "phone": "",
+        "address": "22 Huỳnh Đình Hai, Bình Thạnh"
+      },
+      {
+        "name": "Bánh Đa Cua Dì Lý ",
+        "description": "An Authentic Hai Phong Bánh Đa Cua Right in the Heart of D1",
+        "phone": "",
+        "address": "103 Đồng Khởi, Bến Nghé, Quận 1"
+      },
+      {
+        "name": "Bánh Đập Dập ",
+        "description": "Despite the eatery’s rustic and rundown look, its bánh đập dập epitomizes a real central Vietnamese gem.",
+        "phone": "",
+        "address": "2 Ca Văn Thỉnh, Phường 11, Tân Bình"
+      },
+      {
+        "name": "Bánh Đúc Phan Đăng Lưu ",
+        "description": "Bánh đúc, assorted ốc options and Da Lat yogurt.",
+        "phone": "",
+        "address": "116/11 Phan Đăng Lưu, Phú Nhuận"
+      },
+      {
+        "name": "Bao Bei Chinese Restaurant ",
+        "description": "Experience authentic Chinese cuisine from hand made dim sum to roasted goose in beautifully designed venue with retro Hong Kong inspired.",
+        "phone": "0901363388",
+        "address": "285 Cach Mang Thang Tam, District 10"
+      },
+      {
+        "name": "Bao Bei Chinese Restaurants ",
+        "description": "Taste authentic Chinese cuisine with hand-made Dim Sum, roasted meats or Sichuan dishes & Experience our 80s - HongKong inspired venues.",
+        "phone": "090 136 33 88",
+        "address": "Tầng 2 Viettel Complex Building, 285 CMT8, P. 12, Quận 10, TP HCM, 700000Terra Royal, 280 Nam Kỳ Khởi Nghĩa, P. 8, Quận 3, TP. HCM."
+      },
+      {
+        "name": "Barista Collective ",
+        "description": "Local specialty coffee shop.",
+        "phone": "088 864 00 68",
+        "address": "41 Ho Xuan Huong, District 3"
+      },
+      {
+        "name": "Basilico Restaurant ",
+        "description": "The trattoria Basilico Restaurant is bringing the world of Italian Gastronomy to your home with our Delivery Selection, which delivers your favourite pizza and pasta, main courses & desserts… right to your doorstep.",
+        "phone": "028 3520 9629",
+        "address": "InterContinental Residences Saigon, Corner Nguyen Du & Le Van Huu St, District 1"
+      },
+      {
+        "name": "BB Cafe & Restaurant ",
+        "description": "Vietnamese restaurant specialized in crab dishes",
+        "phone": "090 818 1918",
+        "address": "134/1/2 CMT8, 10, Q3"
+      },
+      {
+        "name": "BBQ Garden ",
+        "description": "Outdoor BBQ joint in the city center.",
+        "phone": "028 3823 3340",
+        "address": "135A Nam Kỳ Khởi Nghĩa, Bến Nghé, Q1"
+      },
+      {
+        "name": "Be An Vegetarian Bistro ",
+        "description": "Be An Bistro is a Vegetarian restaurant with an emphasis on good health and well being.",
+        "phone": "028 3915 0098",
+        "address": "Ground Floor, Saigon Garden, 99 Nguyen Hue Street, District 1"
+      },
+      {
+        "name": "Beefsteak Trần Hữu Trang ",
+        "description": "Phu Nhuan's Beef Inferno",
+        "phone": "",
+        "address": "84A/14 Trần Hữu Trang, Phú Nhuận"
+      },
+      {
+        "name": "Beer Fridge ",
+        "description": "The Beer Fridge delivers a great selection of cold beers right to your door. Order, relax, enjoy! Checkout https://beerfridge.vn/promotions for the latest deals!",
+        "phone": "0833279797",
+        "address": "8/5 street 49, Thao Dien, District 2"
+      },
+      {
+        "name": "Beervana ",
+        "description": "Beervana - Serving world class beers to you!",
+        "phone": "(+84)2866500574",
+        "address": "25 street 2, District 7"
+      },
+      {
+        "name": "Benaras Gardenia ",
+        "description": "BENARAS GARDENIA is the Newly Opened Modern Indian Garden Restaurant.BENARAS GARDENIA has the Best Authentic North Indian Cuisine.BENARAS GARDENIA is the Best Garden Open Air Restaurant in Ho Chi Minh City.",
+        "phone": "0983433340",
+        "address": "28 Trần Ngọc Diện, District 2, Ho Chi Minh City"
+      },
+      {
+        "name": "Bếp Mẹ ỉn Restaurant ",
+        "description": "Vietnamese family food cooked with mama's love.",
+        "phone": "0866711128",
+        "address": "136/9 Le Thanh Ton, District 1"
+      },
+      {
+        "name": "Bia Hơi Bặch Đằng ",
+        "description": "An Old-School Nhậu on D10's Bia Hơi Block",
+        "phone": "",
+        "address": "837 Lê Hồng Phong, Q10"
+      },
+      {
+        "name": "BiaCraft Artisan Ales ",
+        "description": "The most extensive collection of craft beers in Vietnam, both locally brewed and imported.",
+        "phone": "+84 703060247",
+        "address": "90 Xuan Thuy, District 2"
+      },
+      {
+        "name": "Big Pig Bar & Grill ",
+        "description": "Big Pig BBQ & Beer offers a tasty mix of American Style Grill, Ribs, Pizza, Steaks Burgers & Wraps and traditional Vietnamese favorites like Grilled Sea Food, Sizzling Plates, Rice and Hot Pot.NOW OFFERING 30% DISCOUNT FOR DELIVERY",
+        "phone": "028 3929 1688",
+        "address": "12 Cao Thang, D3, HCMC46 Truong Son, Tan Binh // Phone number: 028 3547 4034"
+      },
+      {
+        "name": "Black Vinegar ",
+        "description": "Black Vinegar offers a stylish and contemporary dining experience with modern Cantonese seafood cuisine, Vietnamese regional specialties. A warm and sociable ambiance with multiple settings for drinks and dining. Enjoy Wines, cocktail, at the Crudo Bar, or dine in our cozy and sophisticated main dining room or the exclusive private rooms.",
+        "phone": "+84 914 391 171",
+        "address": "Floor 1, 76 Le Lai, District 1, HCMC"
+      },
+      {
+        "name": "Blanc. ",
+        "description": "How to listen with your eyes? Blanc. employs a team of deaf/hearing impaired waiters. A culinary dining experience. Place your order in sign language; communication takes on a new form.",
+        "phone": "028 6263 2525",
+        "address": "178/180D Hai Bà Trưng, Đa Kao, Q1"
+      },
+      {
+        "name": "BLOQ Thảo Điền ",
+        "description": "Inspired from the global retail park lifestyle movement, BLOQ is a vibrant place where people can eat, shop, work, live and play.",
+        "phone": "0931 202 528",
+        "address": "19 Tran Ngoc Dien, Thao Dien, District 2"
+      },
+      {
+        "name": "Bò Kho Hoàng Diệu ",
+        "description": "The best bò kho in the business.",
+        "phone": "",
+        "address": "42/48 Hoàng Diệu, Q.4"
+      },
+      {
+        "name": "Body Impact ",
+        "description": "Easy . Healthier Meals. Salads, Sandwiches, Pastas, Cold Pressed juices. 15% off 1st order on our website. www.bodyimpact.vn. Deliver to your home/office at your specified time.",
+        "phone": "0817848586",
+        "address": "35 Vo Truong Toan, District 2"
+      },
+      {
+        "name": "Bột Chiên Huỳnh Tịnh Của ",
+        "description": "VND23,000 for bột khoai môn with two eggs.",
+        "phone": "",
+        "address": "Huỳnh Tịnh Của, Q. Bình Thạnh"
+      },
+      {
+        "name": "Bun Bar - A Noodle Hangout and Royal Saigon ",
+        "description": "Modern & Traditional Vietnamese Kitchen focussing on eco-friendly practices while serving homemade Bun Noodle Bowls or Vegan Brown Rice Bentos. All cooked without MSG and we offer gluten-free options, too. Come as a guest and remain friend.",
+        "phone": "0962921773",
+        "address": "40 Dang Thi Nhu, District 1"
+      },
+      {
+        "name": "Bún Bò Huế 62 ",
+        "description": "A Bún Bò Breakfast in D3",
+        "phone": "",
+        "address": "62 Nguyen Thien Thuat, Ward 2, D3"
+      },
+      {
+        "name": "Bún Bò Huế Cửu Long ",
+        "description": "Bowls of beefy goodness.",
+        "phone": "",
+        "address": "Võ Duy Ninh, Q. Bình Thạnh"
+      },
+      {
+        "name": "Bún Cá Sứa Nha Trang ",
+        "description": "Bún cá Nha Trang usually consists of chả cá (fish cakes), fresh fish, tomatoes and pineapples served with bún in a stock made from fish head and bones. Bún cá sứa is similar to bún cá but with jellyfish added.",
+        "phone": "",
+        "address": "86 Nguyen Du, Ben Nghe Ward, quận 1"
+      },
+      {
+        "name": "Bún Chả ",
+        "description": "The Best Bún Chả in Hanoi…in Saigon",
+        "phone": "",
+        "address": "8 Lý Tự Trọng, P. Bến Nghé, Q1"
+      },
+      {
+        "name": "Bún Chua Cay Macao ",
+        "description": "The version of suan la fen in Saigon.",
+        "phone": "0938 416 849",
+        "address": "51 Bửu Đình, Phường 5, Quận 6, TPHCM"
+      },
+      {
+        "name": "Bún Mắm Nêm Heo Quay ",
+        "description": "Di Bay’s bowl of bún mắm nêm is a piece of culinary art that is delicious in taste, visually gratifying and nutritiously balanced.",
+        "phone": "",
+        "address": "65 Bàu Cát 2, Phường 14, Tân Bình"
+      },
+      {
+        "name": "Bún Mộc Thanh Mai ",
+        "description": "D1's Bún Mọc Assembly Line",
+        "phone": "",
+        "address": "52 Nguyễn An Ninh, Q1"
+      },
+      {
+        "name": "Bún Riêu Gánh ",
+        "description": "The Unapologetic Simplicity of Ben Thanh's Bun Rieu Ganh",
+        "phone": "",
+        "address": "4 Đường Phan Bội Châu, Phường Bến Thành, Quận 1"
+      },
+      {
+        "name": "Bún Sứa Cô Hạnh ",
+        "description": "Bún Sứa Serves Up a Jellyfish Medley Without the Sting",
+        "phone": "",
+        "address": "995 Hoàng Sa, Q3"
+      },
+      {
+        "name": "Bún Tân Định ",
+        "description": "An Excursion to Tan Dinh's Secret Bún Hideout",
+        "phone": "",
+        "address": "37/10Bis Đinh Công Tráng, Tân Định, Quận 1"
+      },
+      {
+        "name": "Bún Thịt Nướng Bà Tám ",
+        "description": "The focus here is southern-style bún thịt nướng, bánh hỏi with various add-ons, and bò bía.",
+        "phone": "",
+        "address": "299 Võ Văn Tần, Q.3"
+      },
+      {
+        "name": "Bún Thịt Nướng Chị Tuyền ",
+        "description": "Bún thịt nướng in a street foodie's paradise.",
+        "phone": "",
+        "address": "195 Cô Giang, Q1"
+      },
+      {
+        "name": "Bún Thịt Nướng Huỳnh Định Của ",
+        "description": "An eye-catching bún thịt nướng operation.",
+        "phone": "",
+        "address": "38 Huỳnh Định Của, Q. Bình Thạnh"
+      },
+      {
+        "name": "Cà Ri Dê Ấn Độ ",
+        "description": "D5’s Glorious Goat Curry",
+        "phone": "",
+        "address": "No 1 Block B, Sư Vạn Hạnh Apartment,Q5"
+      },
+      {
+        "name": "Cà Ri Gà 3T ",
+        "description": "If you’re not usually a fan of Vietnamese curry, Cà Ri Gà 3T’s signature dish is a surprisingly well-balanced offering. And If you are indeed a fan, then you’re in luck.",
+        "phone": "028 3535 6007",
+        "address": "28 Huỳnh Tịnh Của, Phường 8, Quận 3"
+      },
+      {
+        "name": "Cafe Luia ",
+        "description": "A minimal and cozy Korean-style cafe focusing on coffee and dessert.",
+        "phone": "092 944 64 66",
+        "address": "180C Hai Ba Trung, District 1"
+      },
+      {
+        "name": "Cafe Tartine Saigon ",
+        "description": "We are an artisan bakery with a focus on naturally leavened bread (sourdough)We serve good coffee, #cool drinks, and #healthy #vegan and non-vegan #tartines, #salads, #sandwiches and other #snacks. Come visit us",
+        "phone": "0903838945",
+        "address": "27 Tran Quang Long, ward 19, Binh Thanh district"
+      },
+      {
+        "name": "Cali Burrito ",
+        "description": "California style Mexican cuisine.",
+        "phone": "0902550533",
+        "address": "E006 Khu phố Hưng Vượng 1, đường số 6, quận 7"
+      },
+      {
+        "name": "Cánh Gà Chiên Nước Mắm ",
+        "description": "The Universal Truth of Fish Sauce Fried Chicken",
+        "phone": "",
+        "address": "96 Lê Lai, Q1"
+      },
+      {
+        "name": "Cannelé Saigon ",
+        "description": "Cannelé Saigon is the first Saigonese e-shop specialized in cannelés, this famous pastry from Bordeaux, already made very popular in Japan. Cannelé Saigon proposes 7 flavors: Original, Caramel, Coffee, Coconut, Kumquat, Chocolate and Passion Fruit.",
+        "phone": "0382181074",
+        "address": ""
+      },
+      {
+        "name": "Cao Lầu and Mì Quảng ",
+        "description": "The restaurant offers two main dishes, mì Quảng in several permutations, and cao lầu, along with some bean desserts.",
+        "phone": "",
+        "address": "138 Bàu Cát 2, Phường 12, Tân Bình"
+      },
+      {
+        "name": "Capone's Chicago Deep Dish Pizza ",
+        "description": "Capone's is authentic Chicago Deep Dish Pizza and street food. Deep Dish Pizza, Thin Crust Pizza, wings, sandwiches and desserts.",
+        "phone": "0338787459",
+        "address": "8/13a, 49b street , district 2"
+      },
+      {
+        "name": "CHAI Ca Phe ",
+        "description": "Our one desire is to bring Saigoneers a delicious cup of coffee every day. In association with Shin Coffee.",
+        "phone": "096 484 86 27",
+        "address": ""
+      },
+      {
+        "name": "Cháo Mực Số 10 ",
+        "description": "D1's Rainy-Day Cháo Mực",
+        "phone": "",
+        "address": "10 Phó Đức Chính, Q1"
+      },
+      {
+        "name": "Chè and Chinese food ",
+        "description": "Eat Your Way Through Nguyen Hue's Secret Street Food Alley.",
+        "phone": "",
+        "address": "Hẻm 53 Nguyễn Huệ, Q1"
+      },
+      {
+        "name": "Chè Bưởi and Chè Thái ",
+        "description": "Striking a Balance With D10's Chè.",
+        "phone": "",
+        "address": "280 Nguyễn Tri Phương, Q10"
+      },
+      {
+        "name": "Chè Cô Huôi ",
+        "description": "Co Huoi and Her West-of-the-Border Delights",
+        "phone": "",
+        "address": "57/21A Hồ Thị Kỷ, Phường 1, Q1"
+      },
+      {
+        "name": "Chè Mâm Khánh Vy ",
+        "description": "Dim sum-like buffet of Vietnamese chè.",
+        "phone": "",
+        "address": "242B Sư Vạn Hạnh, Q10"
+      },
+      {
+        "name": "Cheesecake Ngon ",
+        "description": "We supply delicious cakes for retail and wholesale customers.",
+        "phone": "028 3610 0211",
+        "address": "70, Street 66, Thao Dien District 2"
+      },
+      {
+        "name": "Cheesecake Ngon ",
+        "description": "Bakery focusing on many different varieties of cheesecakes.",
+        "phone": "08 3610 0211",
+        "address": "44 Trương Quyền, 6, Q3"
+      },
+      {
+        "name": "Cheo Leo Cafe ",
+        "description": "Saigon's oldest cafe still uses the old way of brewing with a cloth filter.",
+        "phone": "036 962 6363",
+        "address": "109/36 Nguyen Thien Thuat, District 3"
+      },
+      {
+        "name": "Chickita - Flame Grilled Chicken ",
+        "description": "Flame-grilled chicken and other freshly-made small dishes and sides. Take Away Order will get 30% OFF from till 31.03.2020.",
+        "phone": "028 3519 0000",
+        "address": "230 Nguyen Van Huong, District 294 Ho Tung Mau, District 1L3 Vincom Center Dong Khoi, District 1"
+      },
+      {
+        "name": "Chickita - Flame Grilled Chicken ",
+        "description": "Farm-to-table Flame Grilled Chicken concept with its own natural brown-rice-fed chicken farm. Flame grilling ensures juicy tender meat, and crispy skin at the same time. Asian-inspired menu offers the best of both world.",
+        "phone": "02835190000",
+        "address": "230 Nguyễn Văn Hưởng, Thảo Điền, Q294 Hồ Tùng Mậu, Bến Nghé, Q1L3 Vincom Center Đồng Khởi, Bến Nghé, Q1"
+      },
+      {
+        "name": "Chill Chill - Home Kitchen ",
+        "description": "Fresh, delicious, authentic Thai and Viet cuisine made with imported ingredients where possible.",
+        "phone": "0888948999",
+        "address": "9 Thach Thi Thanh, District 1"
+      },
+      {
+        "name": "Chiyoda Sushi ",
+        "description": "Genuine Japanese cuisine delivered, more than just taste, to experience \"Japan\" in Viet Nam",
+        "phone": "028 3822 5822 - 093 204 2334",
+        "address": "178 Pasteur Street, Ben Nghe Ward, District 1, HCMC"
+      },
+      {
+        "name": "Chuck's Burger ",
+        "description": "Chuck's Burger serves up classic American-style burgers and other grilled items. Last order 11:30. Call 090 695 01 49 after 10pm.",
+        "phone": "0906669623",
+        "address": "71 pasteur, District 1"
+      },
+      {
+        "name": "Co Hong's Cơm Tấm ",
+        "description": "Cô Hồng’s Killer Late-Night Cơm Tấm.",
+        "phone": "",
+        "address": "128 Đoàn Văn Bơ, Phường 9, Quận 4"
+      },
+      {
+        "name": "Cocktail Bolt ",
+        "description": "Fresh Cocktail Delivery in Ho Chi Minh City. Our cocktails are: Made to order, shipped in beautiful glass mason jar that you can drink directly from and include simple instructions. Just add ice, garnish (included) and enjoy!",
+        "phone": "0936030606",
+        "address": "94 Xuan Thuy, District 2"
+      },
+      {
+        "name": "Coconut Ice Cream ",
+        "description": "Grab a seat next to the Kem Dừa street cart to experience a cooling coconuty serving of indulgence.",
+        "phone": "",
+        "address": "11 Ấp Bắc, Ward 13, Tân Bình"
+      },
+      {
+        "name": "Cocotte ",
+        "description": "French Authentic Traditional food at affordable price. We are offering dine-in in 3 locations, delivery and Deli service of longshelf life products that you can stock up in your freezer!",
+        "phone": "0902 911 227",
+        "address": "18A/67 Nguyen Thi Minh Khai, Da Kao, District 1"
+      },
+      {
+        "name": "Cơm Chay 27 ",
+        "description": "Cô Khanh's Vegetarian Banquet and a Trip Down Memory Lane",
+        "phone": "",
+        "address": "430 Phan Xích Long, Phú Nhuận"
+      },
+      {
+        "name": "Cơm Chay Tín Nghĩa ",
+        "description": "Probably Saigon's oldest vegetarian restaurant.",
+        "phone": "",
+        "address": "9 Trần Hưng Đạo, Q1"
+      },
+      {
+        "name": "Cơm Gà 142 ",
+        "description": "The best cơm gà mắm tỏi in Saigon.",
+        "phone": "028 3954 0535",
+        "address": "142 Ba Đình, Phường 10, Quận 8"
+      },
+      {
+        "name": " Com Ga Hai Nam ",
+        "description": "We provide authentic singapore chicken rice",
+        "phone": "0708812188",
+        "address": "167 An Duong Vuong, District 5"
+      },
+      {
+        "name": "Cơm Gà Hải Nam ",
+        "description": "A Quick, Delicious, No-Nonsense Lunch at Quan Com Ga Hai Nam",
+        "phone": "",
+        "address": "67 Lê Thị Hồng Gấm, Phường Nguyễn Thái Bình, Quận 1"
+      },
+      {
+        "name": "Cơm Gà Hải Nam Nguyễn Tri Phương ",
+        "description": "Nguyen Tri Phuong's Chicken Rice Paradise",
+        "phone": "",
+        "address": "379 Nguyễn Tri Phương, Q10"
+      },
+      {
+        "name": "Cơm Gà Muối ",
+        "description": "This is the kind of chicken you cancel meetings for.",
+        "phone": "",
+        "address": "Nguyễn Thị Minh Khai, Q.3"
+      },
+      {
+        "name": "Cơm Gà Xối Mỡ Lão Hương Thân ",
+        "description": "Lao Huong Than's Life-Saving Cơm Gà Xối Mỡ",
+        "phone": "",
+        "address": "402 Trần Phú, Q5"
+      },
+      {
+        "name": "Cơm Halal ",
+        "description": "Praise Be to Cheap, Tender, Delicious Chicken by the Mosque",
+        "phone": "",
+        "address": "45 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1"
+      },
+      {
+        "name": "Cơm Ninh Giang ",
+        "description": "A real unique restaurant in District 5.",
+        "phone": "",
+        "address": "145/2 Dương Tử Giang, Phường 15, Quận 5, TP.HCM"
+      },
+      {
+        "name": "Cơm Sườn Chị Hiền ",
+        "description": "Cơm sườn and the single greatest nước mắm of all time.",
+        "phone": "",
+        "address": "Hẻm 16 Đường Ngô Tất Tố, Phường 19, Bình Thạnh"
+      },
+      {
+        "name": "Cơm Tấm 44 ",
+        "description": "D5's Glorious Com Tam Is the Perfect Drunk Food",
+        "phone": "",
+        "address": "185 Trần Bình Trọng, Phường 3, Quận 5"
+      },
+      {
+        "name": "Cơm Tấm Bà Tám ",
+        "description": "It's a pretty standard lunchtime spot featuring a cart holding the food tucked away in a nook, with tables and chairs spilling across the sidewalk, depending on the mood of the local pavement police. The menu, however, is fairly extensive, with over 20 items, including all kinds of lunch favorites, from cơm tấm to bò kho to gỏi cuốn.",
+        "phone": "",
+        "address": "86 Nguyễn Du, P. Bến Nghé, Quận 1"
+      },
+      {
+        "name": "Cơm Tấm Chả cua - Nguyễn Phi Khanh ",
+        "description": "Perfect breakfast cơm sườn with chả cua.",
+        "phone": "",
+        "address": "113 Nguyễn Phi Khanh, Tân Định, Quận 1"
+      },
+      {
+        "name": "Cơm Trộn 2 Cô ",
+        "description": "Quán Cơm Trộn 2 Cô's carb-laden dishes — from deep-fried kimbap to bibimbap — might be just the hearty salve one needs on a Sunday morning to recover from a wild Saturday night out.",
+        "phone": "0772 900 552",
+        "address": "294/63 Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh250 Lê Văn Sỹ, Phường 1, Quận Tân Bình"
+      },
+      {
+        "name": "Cơm Trưa Phú Mỹ ",
+        "description": "A Perfect Plate of Cơm Trưa by the River",
+        "phone": "",
+        "address": "114 Phú Mỹ, Bình Thạnh"
+      },
+      {
+        "name": "Cơm Trưa Thanh Nu Hẻm Tôn Đức Thắng ",
+        "description": "The best of hẻm 5 Tôn Đức Thắng's street food.",
+        "phone": "",
+        "address": "5 Tôn Đức Thắng, Q1"
+      },
+      {
+        "name": "Cơm Út Mười ",
+        "description": "",
+        "phone": "",
+        "address": "480 Nguyễn Thị Định, Cát Lái, Quận 2"
+      },
+      {
+        "name": "Com Xiu - Modern Hongkong Kitchen ",
+        "description": "Eatery specializing in Hong Kong favorites.",
+        "phone": "028 3925 2648",
+        "address": "106A Le Thi Rieng, District 1"
+      },
+      {
+        "name": "Cooku's Nest ",
+        "description": "Quiet cafe with typical offerings.",
+        "phone": "028 2241 2043",
+        "address": "17 Tú Xương, Q3"
+      },
+      {
+        "name": "Crawfish Spot ",
+        "description": "American seafood spot specializing in Cajun crawfish.",
+        "phone": "096 336 0633",
+        "address": "S1-1 Số 6, Phú Mỹ Hưng, Q7"
+      },
+      {
+        "name": "Crumbs Your Local Bakery ",
+        "description": "Artisanal bakery with a focus on quality ingredients.",
+        "phone": "08 3836 1992",
+        "address": "117 Cống Quỳnh, Nguyễn Cư Trinh, Q1"
+      },
+      {
+        "name": "Củ & Rễ ",
+        "description": "Củ & Rễ is a cozy restaurant in Phu My Hung, serving tasty Vietnamese, Asian and Western plant-based dishes, among craft beers, affordable wine and inspiring nut-based drink creations. Awesome brunch menu available on the weekend recreating many meaty classics into healthy plant-based versions.",
+        "phone": "0923 820 137",
+        "address": "1 Midtown Grande, Nguyễn Lương Bằng, Quận 7"
+      },
+      {
+        "name": "Cú Trên Cây Coffee ",
+        "description": "On a side of Ung Van Khiem Street, Cú Trên Cây is surrounded by makeshift cơm tấm carts, bike-washing shops and rows of nondescript residential abodes, a far cry from the clusters of fashionable boutiques and hipster cafés of Tu Xuong or Ngo Thoi Nhiem.",
+        "phone": "",
+        "address": "262 Ung Van Khiem, Ward 25, Binh Thanh"
+      },
+      {
+        "name": "Cuba - La Casa del Mojito ",
+        "description": "Come enjoy some Authentic Mojitos, fine Cuban Cuisine and flavourful cigars!",
+        "phone": "028 3822 7099",
+        "address": "91 Pasteur, Quận 1"
+      },
+      {
+        "name": "Cục Gạch Cafe ",
+        "description": "Traditional Vietnamese restaurant from the food to the decor. Offers a daily set menu and wide selection of drinks.",
+        "phone": "028 3911 0120",
+        "address": "79 Phan Kế Bính, Đa Kao, Q1"
+      },
+      {
+        "name": "Cục Gạch Quán ",
+        "description": "Genuine North Vietnamese cuisine served in a traditional Vietnamese house.",
+        "phone": "08 3848 0144",
+        "address": "10 Đặng Tất, Tân Định, Q1"
+      },
+      {
+        "name": "Cugini - Tran Ngoc Dien ",
+        "description": "Westlake favorite eaterie Cousins has teamed up with Chef Nico Ceccomoro to bring to Hanoi in the first time and now Saigon, a fresh take on Italian bistronomy.",
+        "phone": "0163 560 0990",
+        "address": "19 Trần Ngọc Diện, Thảo Điền , Q2"
+      },
+      {
+        "name": "Cún Lounge House ",
+        "description": "Cafe and lounge featuring wines, cocktails and snacks.",
+        "phone": "090 383 99 63",
+        "address": "36 Chu Mạnh Trinh, Bến Nghé, Q1"
+      },
+      {
+        "name": "D'art chocolate ",
+        "description": "Premium Vietnamese and Global chocolates - preservatives-free and no artificial additives. Free shipping and discounts everyday!",
+        "phone": "0703178603",
+        "address": "60 ton that tung, District 1"
+      },
+      {
+        "name": "Dahi Handi Indian Restaurant ",
+        "description": "We pioneer in serving Authentic Indian food in HCMC. At Dahi Handi every Dish is prepared in such a way that out taste says it all.Discount Offer :Order Over 300k (Get Free Snacks and 2 Coca)Order Over 500k (Get Free Dessert, Snacks and 2 Coca)",
+        "phone": "0911500044",
+        "address": "48 Hung gia2, Phu my hung, District 7"
+      },
+      {
+        "name": "District 3’s Soup Bermuda Triangle ",
+        "description": "Getting Lost in D3’s Soup Bermuda Triangle.",
+        "phone": "",
+        "address": "72 Nguyễn Thượng Hiền, Quận 3"
+      },
+      {
+        "name": "Du Miên Garden ",
+        "description": "Cafe and coffee shop with a large garden area.",
+        "phone": "08 38 945 555",
+        "address": "7 Phan Văn Tri, Ward 10, Gò Vấp District"
+      },
+      {
+        "name": "Dynasty ",
+        "description": "Spacious and elegant in design, serving Chinese cuisine.",
+        "phone": "08 3829 4000 Ext 2208",
+        "address": "New World Saigon Hotel, 76 Lê Lai, Bến Thành, Q1"
+      },
+      {
+        "name": "East West Brewing Co. ",
+        "description": "Providing variety craft beers made in Saigon.Free shipping for order more than 400k (order before 6pm) via inbox",
+        "phone": "0913060728",
+        "address": "181 Ly Tu Trong, District 1"
+      },
+      {
+        "name": "Ebisu ",
+        "description": "Japanese restaurant famous for its hand-made udon noodles.",
+        "phone": "028 3822 6971",
+        "address": "35 bis Mạc Đĩnh Chi, Đa Kao, Q1"
+      },
+      {
+        "name": "Eddie's - New York Deli & Diner ",
+        "description": "Eddie’s New York Diner serves Simple, Honest, American Cuisine in a Fun, Friendly and Authentic environment.",
+        "phone": "02822536705",
+        "address": "District 2, Ho Chi Minh"
+      },
+      {
+        "name": "Eddie’s New York Diner ",
+        "description": "Eddie’s New York Diner serves Simple, Honest, American Cuisine in a Fun, Friendly and Authentic environment that transports you back to the 50’s & 60’s. Relaxed and comfortable, Eddie’s is great for families, groups as well as singles. Private Boardroom seating for up to 20 people.",
+        "phone": "028 2253 6705",
+        "address": "71 Thao Dien, P. Thao Dien, Quan 2"
+      },
+      {
+        "name": "Eden Coffee House ",
+        "description": "District 7 coffee house serving Illy coffee and a range of western foods for breakfast, lunch and dinner.",
+        "phone": "08 5410 3819",
+        "address": "R3-85 Khu Pho, Hung Phuoc 1, Phu my Hung, Quan 7"
+      },
+      {
+        "name": "El Camino Taqueria ",
+        "description": "Laying down dope azz Korean + Mexican fusion tacos since 2018!Our online platform is up and running.",
+        "phone": "0909261988",
+        "address": "88 Xuan Thuy, Thao Dien, District 2"
+      },
+      {
+        "name": "El Gaucho Argentinian Steakhouse ",
+        "description": "- Contemporary & Specialised | Food is our passion. We aim to establish the benchmark in Southeast Asia for a premium steakhouse dining experience.- Promotion: Discount 20% all Steaks (applies only for delivery and take out)",
+        "phone": "+84 2838272090",
+        "address": "74 Hai Ba Trung, District 1Unit CR1-U3, The Crescent, Phu My Hung, District 7, HCMC | +842854136909Lot L1 - 01, 02 Estella Place, 88 Song Hanh, An Phu Ward, District 2, HCMC | +84981214921"
+      },
+      {
+        "name": "Elenoir Chocolate  ",
+        "description": "A chocolate shop with wide variety of chocolate flavors.",
+        "phone": "08 3915 4345",
+        "address": "26 Đặng Thị Nhu, Nguyễn Thái Bình, Q1"
+      },
+      {
+        "name": "Elephant Garden ",
+        "description": "Originally known as the famous Spice Thai Restaurant, Elephant Garden offers the same Thai cuisine that Vietnamese and Expats love. Together with Baba's Kitchen (Thao Dien), Elephant Garden offers both Thai and Sri Lankan cuisines.",
+        "phone": "+842837446897",
+        "address": "35 Le Van Mien, District 2"
+      },
+      {
+        "name": "Fat Shaggys ",
+        "description": "Burgers, unique items and bacon and cheese and bacon.",
+        "phone": "0396405769",
+        "address": "97d Thao Dien, District 2"
+      },
+      {
+        "name": "Filthy Vegan ",
+        "description": "A vegan restaurant in the heart of Saigon. We try to be Zero Waste. Most ingredients are locally bought. 10% from the profit of your meals go to a vegan charity. We use biodegradable bags/ paper for takeaways & deliveries. We recycle and compost.",
+        "phone": "0776810206",
+        "address": "86 Co Bac, Ward Co Giang, District 1"
+      },
+      {
+        "name": "Flying Pig Saigon ",
+        "description": "A family run restaurant serving up American classics and true favorites that are all homemade and fresh.",
+        "phone": "02822536778",
+        "address": "97 Xuan Thuy, District 2"
+      },
+      {
+        "name": "Food Source International Vietnam ",
+        "description": "We are an importer & distributor of Premium Ingredients (Meats, seafood, cheese, pastries...)",
+        "phone": "02866801169",
+        "address": "Number 17, street 12 , perpendicular Tran Nao, Binh An Ward, District 2"
+      },
+      {
+        "name": "Fujiro ",
+        "description": "Inside Le Thanh Ton's Japan Town Lives Saigon's Best Katsu",
+        "phone": "",
+        "address": "8A/5B1 Thai Van Lung, Ben Nghe Ward, D1"
+      },
+      {
+        "name": "Gà Nướng Anh Tư ",
+        "description": "Anh Tư's Dreamy Grilled Chicken in Binh Thanh.",
+        "phone": "",
+        "address": "449 Lê Quang Định, Phường 5, Bình Thạnh"
+      },
+      {
+        "name": "Gà Nướng Ánh Tuyết ",
+        "description": "Eating (Chicken) Ass",
+        "phone": "",
+        "address": "71 Ngo Tat To, Binh Thanh"
+      },
+      {
+        "name": "Givral ",
+        "description": "This chain offers traditional French pastries and breads.",
+        "phone": "08 3844 3295",
+        "address": "350 Hai Bà Trưng, Tân Định, Q1"
+      },
+      {
+        "name": "Go Dog - Hot Dog, Shakes & Fries ",
+        "description": "Shelley’s Vegetarian (we use Dairy & Eggs) Comfort Food is a new concept restaurant in D2 serves up a large range of delicious food for dine in and delivery.",
+        "phone": "02822536706",
+        "address": "District 2, Ho Chi Minh"
+      },
+      {
+        "name": "Go Dog - Hot Dogs, Shakes and Fries ",
+        "description": "Go Dog serves Classic American Style Hot Dogs, Hot and Crispy Fries and Awesome Thick Milkshake! Satisfaction Guaranteed!",
+        "phone": "028 2253 2801",
+        "address": "29 Thao Dien, Thao Dien Ward, District 1"
+      },
+      {
+        "name": "Godmother Bake & Brunch ",
+        "description": "Featuring wholesome, healthy, filling foods, Australian breakfasts are not merely the food we love AND the life style we aspire to.",
+        "phone": "085 539 1777",
+        "address": "2-4-6 Dong Khoi Street, Level 3, District 1"
+      },
+      {
+        "name": "Greyhound Cafe ",
+        "description": "Thai food with a twist ! Free Delivery for 1km radius from Restaurant Location",
+        "phone": "0938929210",
+        "address": "92 Nam Ky Khoi Nghia, District 1"
+      },
+      {
+        "name": "Gringo Tacos y Cantina ",
+        "description": "Homemade Mexican restaurant. At Gringo Tacos y Cantina we keep it simple and focus on the quality of our ingredients.",
+        "phone": "0949123177",
+        "address": "137 Calmette, District 1"
+      },
+      {
+        "name": "Gringo Tacos y Catina ",
+        "description": "Traditional homemade Mexican food, Margaritas & Mexican cocktails",
+        "phone": "0949 123 177",
+        "address": "137 Calmette, Nguyen Thai Binh Ward, District 1, HCMC"
+      },
+      {
+        "name": "Guanabana ",
+        "description": "Smoothie shop using fresh ingredients.",
+        "phone": "090 982 48 30 / 02 842 1275",
+        "address": "21 Đường Thảo Điền, Q2303 Nguyễn Văn Trỗi, Q Tân Bình"
+      },
+      {
+        "name": "Gummy Chicken Steak ",
+        "description": "On the Hunt for Succulent Seared Chicken in an Old French Apartment",
+        "phone": "",
+        "address": "3rd Floor, Block C, 95 Pasteur, D1"
+      },
+      {
+        "name": "GUTA Cafe ",
+        "description": "Discount 30% through Delivery/Baemin/Grabfood app",
+        "phone": "1900 9225",
+        "address": ""
+      },
+      {
+        "name": "Gyumaru Vietnam ",
+        "description": "Established in 1981, well renowned Hamburg Steak restaurant from Japan is now coming to Ho Chi Minh City.",
+        "phone": "02838271618",
+        "address": "8/3 Le Thanh Ton Street, District 1"
+      },
+      {
+        "name": "Ha Cao Ban Co ",
+        "description": "The Sumptuous Street Snacks of Ha Cao Ban Co",
+        "phone": "",
+        "address": "86 Ky Hoa, Ward 11, D5"
+      },
+      {
+        "name": "Hai Ton Quan ",
+        "description": "Binh Thanh's Delectable Bánh Căn",
+        "phone": "",
+        "address": "570 Lê Quang Định, Gò Vấp"
+      },
+      {
+        "name": "Hajime Teppanyaki Restaurant ",
+        "description": "A Masterful Osaka-Style Okonomiyaki in Binh Thanh.",
+        "phone": "",
+        "address": "34 Pham Viet Chanh, Ward 19, Binh Thanh"
+      },
+      {
+        "name": "Hard Rock Cafe Ho Chi Minh City ",
+        "description": "Hard Rock Cafe is a global phenomenon with 185 cafes that are visited by nearly 80 million guests each year. Promotion: Buy1 Get 50% off on 2nd order.",
+        "phone": "0777636030",
+        "address": "39 Le Duan Street, District 1, mPlaza"
+      },
+      {
+        "name": "Hàu Quán ",
+        "description": "At Madam Oyster, Two Brothers Prove that Taiwanese Food Is More Than Just Milk Tea.",
+        "phone": "",
+        "address": "922 Tran Hung Dao, Ward 7, D5"
+      },
+      {
+        "name": " Haubis Vietnam ",
+        "description": "Healthy and tasty organic, lactose-free, gluten-free, vegan breads; 100% Austrian ingredients, no preservatives, no added sugar, baked with spring water, untreated rock salt and long time matured natural yeast and sourdough... through 4 generations!",
+        "phone": "0909203029",
+        "address": "49 street 14, KDC Ven Sông, District 7"
+      },
+      {
+        "name": "Haubis Vietnam ",
+        "description": "Haubis Vietnam delivers healthy organic, lactose-free, gluten-free, vegan breads; baked with spring water, untreated rock salt and long time matured natural yeast and sourdough... through 4 generations!",
+        "phone": "0909203029",
+        "address": "49 Street 14, KDC Ven Sông, Tân Phong, District 7"
+      },
+      {
+        "name": "Heart of Darkness Brewery ",
+        "description": "Some people say we make the best craft beer in Saigon, Vietnam. Enter the Darkness and decide for yourself...FREE DELIVERY within Saigon with a minumium purchase of a 6-pack15 different COLD. CRAFT. BEERS. to pick from!",
+        "phone": "090 301 75 96",
+        "address": "31D Ly Tu Trong, Distrcit 1"
+      },
+      {
+        "name": "Hoa Tuc ",
+        "description": "A traditional Vietnamese menu with modern twists located in the city’s old opium refinery.",
+        "phone": "08 3825 1676",
+        "address": "74 Hai Bà Trưng, Bến Nghé, Q1"
+      },
+      {
+        "name": "Hội An Restaurant ",
+        "description": "Special for its Vietnamese concept in interior design and food",
+        "phone": "",
+        "address": "11 Lê Thánh Tôn, Bến Nghé, Q1"
+      },
+      {
+        "name": "Hot Rod Garage ",
+        "description": "",
+        "phone": "",
+        "address": "98 Pham Viet Chanh, 19 ward, Binh Thanh district, HCM city"
+      },
+      {
+        "name": "Hôtel des Arts Saigon ",
+        "description": "Hôtel des Arts Saigon, a member of MGallery Collection is designed for those who love to live and travel independently.",
+        "phone": "(+84) 02839 898 888",
+        "address": "76-78 Nguyen Thi Minh Khai street, D\u001d.3, HCMC"
+      },
+      {
+        "name": "House of Chay ",
+        "description": "Freshly cooked nutritious vegan meals, farm to table groceries and natural personal & home care products. Delivered to you in eco-friendly packaging.",
+        "phone": "0971576984",
+        "address": "135/1/80 Nguyen Huu Canh, Binh Thanh"
+      },
+      {
+        "name": "Hủ Tiếu Bò Viên ",
+        "description": "Chewy and juicy bò viên, with the signature taste of Chinese spices and herbs.",
+        "phone": "",
+        "address": "153 Vĩnh Viễn, Phường 4, Quận 10, TPHCM"
+      },
+      {
+        "name": "Hu Tieu Chay Cay De ",
+        "description": "Where Chay Alter Egos of Vietnam's Everyday Soups Reign.",
+        "phone": "",
+        "address": "386 Le Van Sy, Ward 2, Tan Binh"
+      },
+      {
+        "name": "Hủ Tiếu Cô Giang ",
+        "description": "One of District 1's premier hủ tiếu spots.",
+        "phone": "",
+        "address": "176bis Cô Giang, Cô Giang, Q1"
+      },
+      {
+        "name": "Hu Tieu Mi Chu Se ",
+        "description": "Chu Se's 65 Years of Hủ Tiếu Mì by the Calmette Bridge",
+        "phone": "",
+        "address": "52 Calmette, Nguyen Thai Binh Ward, D1"
+      },
+      {
+        "name": "Hu Tieu Mi To Chan ",
+        "description": "To Chan's Noodle Soup Offers Comfort in a Bowl",
+        "phone": "",
+        "address": "41 Nguyen Cu Trinh, Nguyen Cu Trinh Ward, D1"
+      },
+      {
+        "name": "Hủ Tíu Chảnh ",
+        "description": "The flavor explosion is real.",
+        "phone": "",
+        "address": "172 Lý Chính Thắng, Q.3"
+      },
+      {
+        "name": "Hủ Tíu Thanh Xuân ",
+        "description": "70 Years of Hủ Tiếu Down a Saigon Alley",
+        "phone": "028 3821 3193",
+        "address": "62 Tôn Thất Thiệp, Bến Nghé, Quận 1"
+      },
+      {
+        "name": "Hue Corner Restaurant ",
+        "description": "Hue food specialties.",
+        "phone": "02863819830",
+        "address": "26A, Thao Dien street, Thao Dien ward, District 2"
+      },
+      {
+        "name": "Hue Ky Mi Gia ",
+        "description": "A highly recommended eateries in the vicinity to sample the local offerings of Chinese food, starting with the range of noodles.",
+        "phone": "",
+        "address": "61 Thuận Kiều, Phường 12, Quận 5, Hồ Chí Minh"
+      },
+      {
+        "name": "Huế O Xuân ",
+        "description": "A heaven of Hue food amidst the busy Tan Dinh market.",
+        "phone": "",
+        "address": "Chợ Tân Định, Q.1"
+      },
+      {
+        "name": "Hum Restaurant ",
+        "description": "Upscale vegetarian and vegan restaurant.",
+        "phone": "(84-28) 3930 3819; (84-28) 3823 8920; (028) 3519 0109",
+        "address": "32 Võ Văn Tần, 6, Q32 Thi Sach, Q132 Duong 10, Q2"
+      },
+      {
+        "name": "HUNGRY BUNNY - American Bistro ",
+        "description": "We do Burgers, Sandwiches, Soups, Salads, Pastas and other American comfort food",
+        "phone": "02822290011",
+        "address": "1 Nguyen Cuu Van, Binh Thanh District"
+      },
+      {
+        "name": "Indoguna Viet Nam ",
+        "description": "Fresh quality meat and imported premium seafood",
+        "phone": "0901188580",
+        "address": "44b phan xich long, Phu Nhuan district"
+      },
+      {
+        "name": "Into The Kitchens ",
+        "description": "Going to Into The Kitchens means eating comfortable food as it's made from family members by using carefully selected ingredients and traditional methods",
+        "phone": "02838211179",
+        "address": "158/5 Nguyen Cong Tru Street, Ward Nguyen Thai Binh, District 1"
+      },
+      {
+        "name": "Jake’s BBQ ",
+        "description": "American Bbq and comfort food",
+        "phone": "093 8835077",
+        "address": "50 Pasteur Street District 3"
+      },
+      {
+        "name": "Jamaica Jamaica - Caribbean BBQ & Cuisine ",
+        "description": "Jamaican cuisine",
+        "phone": "",
+        "address": "359/67-D, Le Van Sy,P.12,Q3, Ho Chi Minh"
+      },
+      {
+        "name": "Jardin Des Sens ",
+        "description": "Tailored menu, cooked by Jardin Des Sens Head Chef, then delivered to you. Chef will give you the instructions to easily reheat and enjoy.",
+        "phone": "(028) 3930 3394",
+        "address": "251 Dien Bien Phu St., D.3, HCMC"
+      },
+      {
+        "name": "Kabin Restaurant ",
+        "description": "Highly regarded Chinese restaurant in the Renaissance Riverside Saigon.",
+        "phone": "028 3822 0033",
+        "address": "8-15 Tôn Đức Thắng, Bến Nghé, Q1"
+      },
+      {
+        "name": "Karaoke ICOOL ",
+        "description": "Clean karaoke chain with 18 branches in HCMC, elevating your singing experience with high-class service.",
+        "phone": "1900 779 936",
+        "address": "268-270 Phan Xich Long, Ward 7, Phu Nhuan District"
+      },
+      {
+        "name": "Kashew Cheese ",
+        "description": "Kashew Cheese is a plant-based artisan cheese based in Saigon. We make a variety of cheese from Vietnamese cashew nuts, combining traditional cheesemaking methods with bold new flavours.",
+        "phone": "093 426 40 28",
+        "address": "14 Tran Ngoc Dien, Thao Dien, District 2"
+      },
+      {
+        "name": "Kebabs and Wraps ",
+        "description": "Turkish & Middle Eastern Grill! Serving falafels, hummus, chicken shawarma, beef kofta wraps & much more. Right now until April 1st, Kebabs &Wraps is offering free delivery in Thao Dien for any order over 300 or Buy 1 wrap get 1 Free for pick up only.",
+        "phone": "0911092121",
+        "address": "Little Thao Dien, 94 Xuan Thuy, D2"
+      },
+      {
+        "name": "Khổ Qua Cà Chớn  ",
+        "description": "An eatery specializing in stuffed dishes.",
+        "phone": "093 880 66 63",
+        "address": "202 Phùng Hưng, phường 14, Quận 5"
+      },
+      {
+        "name": "Khoai Bistro ",
+        "description": "Breakfast skillet & ribs",
+        "phone": "",
+        "address": ""
+      },
+      {
+        "name": "Khói Thơm ",
+        "description": "Mexican fusion eatery.",
+        "phone": "08 3930 0233",
+        "address": "29 Ngô Thời Nhiệm, 6, Q3"
+      },
+      {
+        "name": "Kiba Saigon ",
+        "description": "Modern Asian kitchen with Spanish influences",
+        "phone": "+84 384072893",
+        "address": "31 Pho Duc Chinh, District 1"
+      },
+      {
+        "name": "Kim Thảo ",
+        "description": "Kickin' It at Kim Thao's Hột Vịt Lộn Hangout",
+        "phone": "",
+        "address": "104 Xuan Thuy, Thao Dien Ward, D2"
+      },
+      {
+        "name": "Kin Đee Thai Izakaya ",
+        "description": "Thai gastropub serving modern Thai street food with a Japanese twist.",
+        "phone": "0767720023",
+        "address": "200/23 Le Thanh Ton District 1 Ho Chi Minh City"
+      },
+      {
+        "name": "Kinh Đô Bakery ",
+        "description": "Traditional Vietnamese bakery with locations all over the city.",
+        "phone": "08.38 296 552",
+        "address": "128A Hai Bà Trưng, Đa Kao, Q1"
+      },
+      {
+        "name": "Korean Cold Noodles D7 ",
+        "description": "The most authentic naengmyeon (cold noodles) shops in town.",
+        "phone": "",
+        "address": "3 Khu Pho My Hoang, Tan Phong Ward, District 7"
+      },
+      {
+        "name": "Korean comfort food D7 ",
+        "description": "The menu is quite expansive, from shiraegi specialties to other Korean traditional dishes as well.",
+        "phone": "",
+        "address": "161 Ton Dat Tien, Tan Phong Ward, Quan 7"
+      },
+      {
+        "name": "Krua Thai ",
+        "description": "Krua Thai specializes in som tam, a type of Thai salad made with green papaya (and sometimes green mango) pounded in a big mortar with bird’s eye chili, fish sauce, tamarind, lime juice and wedges, and peanuts",
+        "phone": "",
+        "address": "95 Huynh Dinh Hai, phuong 14, Binh Thanh"
+      },
+      {
+        "name": "K’BE Wood Fired Pizza and BBQ Restaurant ",
+        "description": "One Family's Unexpected Outpost at the Foot of Langbiang.",
+        "phone": "",
+        "address": "209 Langbiang, Lac Duong Town, Lam Dong Province"
+      },
+      {
+        "name": "L'Adresse Bistro ",
+        "description": "Authentic Mediterranean, good food, sumptuous drinks for great times. Special take out menu. Original flat breads.",
+        "phone": "0906707900",
+        "address": "2 Phan Van Dang"
+      },
+      {
+        "name": "L'Herbanyste ",
+        "description": "Through the flavour-rich plant based foods we serve and the experiences we create, we will bring people and our communities closer together",
+        "phone": "035 739 2910",
+        "address": "215E4 Nguyen Van Huong, Thao Dien, District 2"
+      },
+      {
+        "name": "L'Olivier ",
+        "description": "Fine French and Mediterranean cuisine in an elegant setting.",
+        "phone": "028 3824 1555",
+        "address": "Sofitel Plaza Saigon Hotel 17 Le Duan Street, Ben Nghe Ward, District 1, Bến Nghé, Q1"
+      },
+      {
+        "name": "L'Usine ",
+        "description": "Because the world is made richer with each shared cultural point of view, L’Usine will bring something valuable and desirable to the world. The place for all-day breakfast, innovative brunch, fresh bread and healthy options.",
+        "phone": "+84 342800222",
+        "address": "19 Le Thanh Ton, District 1"
+      },
+      {
+        "name": "La Carità ",
+        "description": "Delivery-only homemade nama chocolates that sensationally melt in your mouth.",
+        "phone": "0765807887",
+        "address": "103/15 Ho Thi Ky, Ward 1, District 10"
+      },
+      {
+        "name": "La Creperie ",
+        "description": "Brittany restaurant with ingredients imported from France.",
+        "phone": "028 2253 1914",
+        "address": "98 - O, Lê Lai, Phường Phạm Ngũ Lão, Q1"
+      },
+      {
+        "name": "La Fiesta ",
+        "description": "Tasty Tex-Mexican Food and Drink.",
+        "phone": "0944291697",
+        "address": "33 Đặng Thị Nhu, Nguyễn Thái Bình, Q1"
+      },
+      {
+        "name": "La Fiesta Tex Mex Restaurant ",
+        "description": "Tasty Tex Mex food & drink. Check out our Facebook page for great drink specials! Takeaway & delivery",
+        "phone": "0944291697",
+        "address": "33 Dang Thi Nhu District 11-1A Ha Huy Tap D7,Phu My Hung // 0948901465"
+      },
+      {
+        "name": "La Haye Kitchen & Bar ",
+        "description": "We bring the new breath of French cooking method to the cuisine that mixed with Japanese Seasoning.",
+        "phone": "0918406777",
+        "address": "19 Tran Ngoc Dien, Thao Dien, District 2"
+      },
+      {
+        "name": "La Holista Co., Ltd ",
+        "description": "A Holistic Health & Wellness company that offers wholesome plant-based foods, coaching, cooking classes, hikes, kids activities, corporate & public speaking.",
+        "phone": "0818163620",
+        "address": "22a01 street 64, Thao Dien, District 2"
+      },
+      {
+        "name": "La Hostaria ",
+        "description": "Italian restaurant with a wide range of homemade pasta and pizza.",
+        "phone": "028 3823 1080",
+        "address": "17B Lê Thánh Tôn, Bến Nghé, Q1"
+      },
+      {
+        "name": "Là Quê - fruit box delivery ",
+        "description": "Fresh tropical fruit box delivery. Free shipping to D1,D2,D7,D4,D3, Phú Nhuận, Bình Thạnh.The weight is 600gram/box, each filled with fruit freshly picked in the Mekong Delta.",
+        "phone": "0356304465",
+        "address": "350 Huỳnh Tấn Phát street, Tân Thuận Tây ward. District 7, Phú Mỹ Hưng. HCMC"
+      },
+      {
+        "name": "La Rotonde ",
+        "description": "Vietnamese cuisine in a colonially inspired space.",
+        "phone": "0983 889 935 / 9090 368 201",
+        "address": "77B Hàm Nghi, Bến Thành, Q1"
+      },
+      {
+        "name": "La Villa French Restaurant ",
+        "description": "High-end French fare in a colonial villa.",
+        "phone": "028 3898 2082",
+        "address": "14 Ngô Quang Huy, Thảo Điền, Q2"
+      },
+      {
+        "name": "Lạc Thái ",
+        "description": "Moderately priced Thai food in a traditional setting.",
+        "phone": "08 3823 7506",
+        "address": "71/2 Mạc Thị Bưởi, Bến Nghé, Q112 Mạc Thị Bưởi, Bến Nghé, Q1"
+      },
+      {
+        "name": "Laikee Mi Gia ",
+        "description": "A Bowl of Tripe Noodles That Takes You Straight to Hong Kong.",
+        "phone": "",
+        "address": "69 Ngô Quyền, Quận 5, Hồ Chí Minh"
+      },
+      {
+        "name": "Lẩu Bò Cô Thảo ",
+        "description": "Beef and Booze at Lau Bo Co Thao",
+        "phone": "",
+        "address": "84/10 Hồ Thị Kỷ, Q10"
+      },
+      {
+        "name": "Lẩu Nướng Chilli ",
+        "description": "The Ingenuity of 24-Way Grilled Oysters in D4",
+        "phone": "",
+        "address": "232 Vĩnh Khánh, Phường 10, Quận 4"
+      },
+      {
+        "name": "Le Bacoulos ",
+        "description": "Quiet spot located in an alleyway.",
+        "phone": "028 3519 4058",
+        "address": "13 Tống Hữu Định, Thảo Điền, Q2"
+      },
+      {
+        "name": "Le Cochon D'or ",
+        "description": "Ham, salami, sausage and more!Here at LE COCHON D’OR, you can find authentic French charcuterie such as ham, sausages, salami and more. French charcutier Mr. Roger Zwiebel created the recipes.",
+        "phone": "028 3829 3856",
+        "address": "186bis Nguyen Van Thu, Da Kao Ward, District 1, HCMC"
+      },
+      {
+        "name": "Le Méridien Saigon Hotel ",
+        "description": "Situated in the heart of D1, Le Méridien Saigon offers stylish rooms overlooking the Saigon river with a fully-equipped fitness centre and an infinity-edge swimming pool, together with the spa treatment. Our in-house restaurants showcase artfully international cuisine with thoughtful services.",
+        "phone": "028 6263 6688",
+        "address": "3C Ton Duc Thang street, Ben Nghe ward, District 1, HCMC"
+      },
+      {
+        "name": "Lê Thị Riêng Smoothies ",
+        "description": "Try their signature chocolate coconut smoothies.",
+        "phone": "",
+        "address": "104 Lê Thị Riêng, Q.1"
+      },
+      {
+        "name": "Legendary Chocolatier ",
+        "description": "You can find cocoa beans from Ben Tre Province combine with high quality Vietnamese agricultural products to create unique chocolate flavors. Their mission is to make better chocolate products and improve the livelihood of cocoa farmers.",
+        "phone": "028 627 66588",
+        "address": "46 Truong Dinh St, Ben Thanh Ward, Dist.1, Ho Chi Minh City"
+      },
+      {
+        "name": "Légumes - Bread & Juice ",
+        "description": "The Organic Juice, Vegan Bread Homemade, Brownies, Bakery , Nuts and Dried Fruits and Nut Butters, Protein Balls. Made from 100% Vegetables, No Sugar and No Preservatives",
+        "phone": "088 899 13 31",
+        "address": "40 Nguyen Cu, Thao Dien, District 2"
+      },
+      {
+        "name": "Let's POKE ",
+        "description": "Eatery specializing in poke bowls.",
+        "phone": "088 9943220",
+        "address": "37 Hồ Xuân Hương, Ward 6, Distrist 326 Lý Tự Trọng (Floor 2, N.28), Ward Bến Nghé, Distrist 1"
+      },
+      {
+        "name": "Loft Cafe ",
+        "description": "Modern coffee shop tucked inside an old French colonial buildings.",
+        "phone": "093 944 9093 / 090 184 09 01",
+        "address": "95 Pasteur, 3rd floor, D126 Lý Tự Trọng, 1st floor, D1"
+      },
+      {
+        "name": " Loriekot's Lutong Bahay ",
+        "description": "Loriekot’s Filipino Fare in the Heart of Saigon",
+        "phone": "",
+        "address": "193 Điện Biên Phủ, Q3"
+      },
+      {
+        "name": "Lost & Found Saigon ",
+        "description": "Lost & Found offers delivery cocktails straight to your door.",
+        "phone": "0707221670",
+        "address": "19/6 Nguyen Thi Minh Khai, District 1"
+      },
+      {
+        "name": "Lost Boys Sports Bar & Grill ",
+        "description": "A hidden gem in District 7 with an amazing, nature-friendly surrounding. Offers Best Wood Fired Pizza in town - Perfect Inside Pool Tables - Unique Cocktails and other mouthwatering menu items.",
+        "phone": "093 407 0807",
+        "address": "147 Le Van Luong, Tan Kieng, District 7, HCMC"
+      },
+      {
+        "name": "Loving Wife Vegan ",
+        "description": "Vegetarian",
+        "phone": "02838909858",
+        "address": "107K Truong Dinh, District 3"
+      },
+      {
+        "name": "Lubu ",
+        "description": "Mediterranean cuisine in an airy setting.",
+        "phone": "028 6281 8371",
+        "address": "97 Thảo Điền, Thảo Điền, Q2"
+      },
+      {
+        "name": "Macho Taco ",
+        "description": "Mexican Street Food Taqueria. Business run by a Mexican living in Vietnam for 8 years craving his home food.",
+        "phone": "+84 36 846 6356",
+        "address": "17 Tran Quoc Toan, District 3"
+      },
+      {
+        "name": "Macho Taco ",
+        "description": "Mexican Simplicity and Zen-Like Tacos in D3",
+        "phone": "",
+        "address": "17 Tran Quoc Toan, Ward 8, D3"
+      },
+      {
+        "name": "Mad Cow ",
+        "description": "Mad Cow offers amazing grilled steaks and seafood, and to present a great selection of madly priced wines.",
+        "phone": "+84 (0)28 3838 8686",
+        "address": "148 Đường Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1"
+      },
+      {
+        "name": "Magnolia Kitchen & Cafe ",
+        "description": "Authentic Vietnamese cuisine, colorful interior design.",
+        "phone": "028 3920 3047",
+        "address": "190-192 Đề Thám, Cầu Ông Lãnh, Q1"
+      },
+      {
+        "name": "Mai Sen ",
+        "description": "Fine Dining at a Budget Price in Binh Thanh's Mai Sen Bistro",
+        "phone": "",
+        "address": "56 Nguyen Van Lac, Ward 19, Binh Thanh District"
+      },
+      {
+        "name": "Mama Sens ",
+        "description": "Mama Sens is a restaurant serving Mediterranean cuisine. Not only flavorful but these dishes are also good for heath. Free delivery within 1KM radius.",
+        "phone": "(028) 38242986",
+        "address": "35 Nguyen Dinh Chieu, District 3"
+      },
+      {
+        "name": "Man Tu Vegan ",
+        "description": "Finding Your Path at a Downtown Vegan Buffet",
+        "phone": "",
+        "address": "14/2 Ton That Dam, D1"
+      },
+      {
+        "name": "May Restaurant & Bar ",
+        "description": "High standard of service, serving both Asia and Western cuisine.",
+        "phone": "028 6291 3686",
+        "address": "56-58 Bùi Thị Xuân, Q1"
+      },
+      {
+        "name": "MAY's Urban Thai Dine ",
+        "description": "Authentic and refined urban Thai food with a personal touch of signature curry originated from Pattaya, Thailand.",
+        "phone": "The Factory: 028 3898 9347/ Dong Khoi: 0868 818 284)",
+        "address": "The Factory - 15 Nguyễn Ư Dĩ, Thảo Điền W., District 2Dong Khoi - Level 2, 2-4-6 Đồng Khởi, Bến Nghé W., District 2"
+      },
+      {
+        "name": "Mekong Merchant ",
+        "description": "Mediterranean fusion. Healthy yet delicious food made with love",
+        "phone": "02837447000",
+        "address": "23 Thao Dien, district 2"
+      },
+      {
+        "name": "Mekong Merchant ",
+        "description": "Western fare in an open, outdoor setting.",
+        "phone": "028 3744 7000",
+        "address": "23 Thảo Điền, Thảo Điền, Q2"
+      },
+      {
+        "name": "Mezz Restaurant ",
+        "description": "Mezz is an interactive buffet restaurant which provides guests a new culinary discovery with international dishes and Asian specialties with imported products from France. guests are served with freshly cooked dishes a-la-minute.",
+        "phone": "08 3824 1555",
+        "address": "17 Lê Duẩn, Bến Nghé, Q1"
+      },
+      {
+        "name": "Mezze Saigon ",
+        "description": "Delivery available for all districts. Free delivery to central districts for a bill above vnd500k",
+        "phone": "0769 669 063",
+        "address": "215 Ly Tu Trong, District 1"
+      },
+      {
+        "name": "Mi 7 To ",
+        "description": "Lured by the Promise of 7-Way Noodles, We Found Delicious Dim Sum in D5",
+        "phone": "",
+        "address": "20 Nguyen Duy Duong, Ward 8, D5"
+      },
+      {
+        "name": "Mì Cà Ri Cá Viên ",
+        "description": "Fish Balls, Curry and Noodle Soup, a Perfect Storm",
+        "phone": "",
+        "address": "565/44 Nguyễn Trãi, Q5"
+      },
+      {
+        "name": "Mì Gà Da Giòn Lửa Hồng ",
+        "description": "Chicken Noodles in Phu Nhuan's Flower Neighborhood",
+        "phone": "",
+        "address": "46 Nhieu Tu Street, Ward 7, Phu Nhuan District"
+      },
+      {
+        "name": "Mì Gia 79 ",
+        "description": "Getting Your Fried Chicken and Noodle Fix in D4",
+        "phone": "",
+        "address": "4 Vĩnh Khánh, Q4"
+      },
+      {
+        "name": "Mì Gia Tân Tòng Lợi ",
+        "description": "The eatery specializes in Chinese-style egg noodle soups and fried duck dishes.",
+        "phone": "",
+        "address": "311 Võ Văn Tần, Q.3"
+      },
+      {
+        "name": "Mì nui xào bò ",
+        "description": "Cô Nhi and Chú Den's Humble Nui Xào Bò Cart",
+        "phone": "",
+        "address": "64 Le Hong Phong, D5"
+      },
+      {
+        "name": "Mì ốc hến ",
+        "description": "Mì Hến With Cong the Enforcer",
+        "phone": "",
+        "address": "92B Tôn Thất Thuyết, Q4"
+      },
+      {
+        "name": "Mi Quang Pho Hoi ",
+        "description": "The Bowl of Cao Lầu Worth a Run Across the City",
+        "phone": "",
+        "address": "507 Nguyen Thi Thap, Tan Phong Ward, D7"
+      },
+      {
+        "name": "Mì sủi cảo ",
+        "description": "Sủi Cảo and Handmade Noodles, a Match Made in Food Heaven",
+        "phone": "",
+        "address": "116-118 Ha Ton Quyen, Ward 4, D11"
+      },
+      {
+        "name": "Mì vịt tiềm Thượng Hải ",
+        "description": "A Long-Anticipated Bowl of D10's Pre-Eminent Duck Noodles",
+        "phone": "",
+        "address": "Hẻm 481 Nguyễn Tri Phương, Q10"
+      },
+      {
+        "name": "Mia Saigon Luxury Collection ",
+        "description": "A private urban sanctuary where space, style and luxury meet. Set on the banks of the tranquil Saigon River in trendy District 2 known for its happening arts scene, chic eateries, and fashionable shopping, Mia Saigon is just minutes from Ho Chi Minh City’s dynamic downtown while feeling like a blessed world away",
+        "phone": "+84 (0) 28 628 74 222",
+        "address": "2-4 Street No. 10, An Phu Ward, District 2, Ho Chi Minh City, Vietnam"
+      },
+      {
+        "name": "Mien Luon Cho Ben Thanh ",
+        "description": "Northern-Style Miến Lươn Is a Magical Saigon Breakfast",
+        "phone": "",
+        "address": "26 Thu Khoa Huan, D1"
+      },
+      {
+        "name": "Miyama - Modern Tokyo Restaurant Cafe ",
+        "description": "Miyama is the first Tokyo-style restaurant cafe in Ho Chi Minh city. Besides the freshly-made Japanese-inspired desserts, you can experience modern Tokyo cuisine which has the international flavors by the freshest and finest ingredients and beautiful in presentation. Our Miyama Nguyen Van Thu also serves healthy Japanese brunch, and especially, modern small dishes inspired by trendy concepts of Tokyo.",
+        "phone": "(028) 2253 1076",
+        "address": "L3-01, Saigon Centre, 65 Le Loi, Ben Nghe Ward, District 1"
+      },
+      {
+        "name": "Mojo Café on Dong Khoi ",
+        "description": "This modern, chic café, restaurant, and bar overlooking famous Dong Khoi Street is the place to see and be seen.",
+        "phone": "08 3827 2828",
+        "address": "88 Đồng Khởi, Bến Nghé, Quận 1"
+      },
+      {
+        "name": "Monsoon ",
+        "description": "Indochinese fare from four different countries.",
+        "phone": "028 6290 8899",
+        "address": "1 Cao Bá Nhạ, Nguyễn Cư Trinh, Q1"
+      },
+      {
+        "name": "Morico - Contemporary Japanese Lifestyle ",
+        "description": "We are a contemporary Japanese lifestyle restaurant café offering the best deserts in town & whole meals.In this trying time, we would like to offer 25% total bill when ordering directly with us http://morico.life/deli/",
+        "phone": "0903034042",
+        "address": "30 Le Loi, District 1"
+      },
+      {
+        "name": "Món ăn Malaysia ",
+        "description": "An eatery in Saigon serves up a collection of classics — from char kway teow to Milo Dinosaur — as close to the originals as one can get outside of Malaysia.",
+        "phone": "0563 924 395",
+        "address": "1/4 Pasteur, Phường Nguyễn Thái Bình, Quận 1, TPHCM"
+      },
+      {
+        "name": "Món ăn Thái Lan ",
+        "description": "Thái Lê Ký - a should-try Thai food place in Saigon.",
+        "phone": "091 427 88 79",
+        "address": "796/11 Trường Sa, Phường 14, Quận 3, TP.HCM"
+      },
+      {
+        "name": "Muscle Meals VN ",
+        "description": "Meal Plan service for those who wants to lose fat, eat healthy or be on a high-protein muscle growth friendly diet. We are delivery only and currently offer 100k your first week!",
+        "phone": "0769327758",
+        "address": "221c Nguyen Trong Tuyen, Phu Nhuan District"
+      },
+      {
+        "name": "Mutahiro ",
+        "description": "Mutahiro's Masterful Chicken Ramen",
+        "phone": "",
+        "address": "8A/G8b Thai Van Lung, Ben Nghe Ward, D1"
+      },
+      {
+        "name": "Nam Ký ",
+        "description": "D5's Bò Xào Sa Tế, a Feast for All the Senses",
+        "phone": "",
+        "address": "393 Trần Phú, Phường 7, Quận 5, Hồ Chí Minh"
+      },
+      {
+        "name": "New York Steakhouse ",
+        "description": "Western cuisine with a focus on high-quality steaks from American beef.",
+        "phone": "028 3823 7373",
+        "address": "25 Nguyễn Đình Chiểu, Đa Kao, Q1"
+      },
+      {
+        "name": "Ngoc Suong Seafood & Bar ",
+        "description": "An innovative and upscale seafood concept that focuses on premium ingredients.",
+        "phone": "+841900234506",
+        "address": "06 Thai Van Lung, District 1"
+      },
+      {
+        "name": "Ngoc Suong Seafood Restaurant ",
+        "description": "Ngoc Suong Seafood Restaurant is as classic as it could get in Saigon—grand architecture, fathoms-deep wine list, perfectionist standard of service, and most importantly, impeccable cuisine.",
+        "phone": "(028) 39256939",
+        "address": "106 Suong Nguyet Anh Street, District 1, HCMC"
+      },
+      {
+        "name": " Ngõ Đồng Xuân ",
+        "description": "Authentic Hanoian food at Ngõ Đồng Xuân.",
+        "phone": "",
+        "address": "63A Hoàng Hoa Thám, phường 13, quận Tân Bình"
+      },
+      {
+        "name": "Nhà Phạm Cafe ",
+        "description": "In a nondescript old complex in Binh Thanh, what used to be a classroom for tailoring lessons became the home of an open-space coffee counter that serves up some of the city's coolest beverages.",
+        "phone": "0947 926 480",
+        "address": "Lầu 1, Lô D, 129 Đinh Tiên Hoàng, Phường 3, Bình Thạnh, Thành phố Hồ Chí Minh"
+      },
+      {
+        "name": "Nigerian food ",
+        "description": "The Legend of Baby African",
+        "phone": "",
+        "address": "439/10 Cay Tram, Ward 12, Go Vap District"
+      },
+      {
+        "name": "Nippon Izakaya Japanese Pub ",
+        "description": "Traditional Japanese Izakaya fare.",
+        "phone": "08 3840 9826",
+        "address": "63 Phạm Viết Chánh, 19, Bình Thạnh"
+      },
+      {
+        "name": "Noir Dining in the Dark ",
+        "description": "A mind-altering dining experience and culinary journey through taste, smell, touch and sound",
+        "phone": "08 6263 2525",
+        "address": "178 Hai Bà Trưng, Đa Kao, Q1"
+      },
+      {
+        "name": "N°21 Restaurant ",
+        "description": "N°21 Restaurant is a design and cosy restaurant nested in the middle of D3, less than 5 min away from the heart of booming Saigon. We serve international bistoronomieand we are focusing on quality ingredients, responsible sourcing & sustainability",
+        "phone": "028 3930 0840",
+        "address": "21 Ngo Thoi Nhiem, District 3"
+      },
+      {
+        "name": "O Thu's cơm hến, bún hến ",
+        "description": "In Hẻm 284, O Thu Brings a Touch of Hue to Saigon With Cơm Hến",
+        "phone": "",
+        "address": "284/9 Le Van Sy, Ward 14, D3"
+      },
+      {
+        "name": "Ốc Thảo ",
+        "description": "Lunch Hour Gone Rogue at Oc Thao",
+        "phone": "",
+        "address": "229 Hoàng Diệu, Q4"
+      },
+      {
+        "name": "Ốc Đào ",
+        "description": "A giant, secret snail-grilling operation tucked behind several twists and turns along a narrow downtown alley",
+        "phone": "",
+        "address": "212B Nguyễn Trãi, phường Phạm Ngũ Lão, Q1"
+      },
+      {
+        "name": "Oni-Oni ",
+        "description": "The menu features a number of fried goodies (eggplant, croquettes, pork skewers and more), grilled chicken and sausage, chicken cutlets, chicken ramen and more.",
+        "phone": "",
+        "address": "14 Huynh Man Dat, Binh Thanh District"
+      },
+      {
+        "name": "Orientica ",
+        "description": "Japanese restaurant with live cooking show.",
+        "phone": "+84 8 3839 7777",
+        "address": "Hotel Equatorial Floor 2, 242 Trần Bình Trọng, 4, Q5"
+      },
+      {
+        "name": "Pan Mi Gia ",
+        "description": "Chinese-Malaysian Noodles and Saigon's New Generation of Street Food",
+        "phone": "",
+        "address": "119 Bui Huu Nghia, Ward 7, D5"
+      },
+      {
+        "name": "PANAM ",
+        "description": "Tasty house-made kebabs and other sandwiches.Direct order with 10% discount on food.",
+        "phone": "0941235315",
+        "address": "108 Pham Viet Chanh ,Binh Thanh"
+      },
+      {
+        "name": "Paper Plate Pizza ",
+        "description": "By the slice New York style piazza.- Support 15k shipping fee for all transaction from 200.000 vnd.- FREE shipping fee for all transactions from 400.000 vnd.",
+        "phone": "077 789 2988",
+        "address": "25/26B Ton That Tung St , District 1"
+      },
+      {
+        "name": "Paris Deli ",
+        "description": "French Bistro offering western fare and pastries.",
+        "phone": "08 3821 6127",
+        "address": "65D Lê Lợi, Bến Nghé, Q1"
+      },
+      {
+        "name": "Park Hyatt Saigon ",
+        "description": "Park Hyatt Saigon’s signature delicacies are officially available for delivery service. Experience world-class culinary offers with personalised service, upon your doorstep! ​*Moreover, no delivery fee included.",
+        "phone": "028 3520 2351",
+        "address": "2 Lam Son Square, District 1"
+      },
+      {
+        "name": "Parkview ",
+        "description": "High-class seafood restaurant inside the New World Saigon Hotel.",
+        "phone": "028 3829 4000 ext 2200",
+        "address": "76 Lê Lai, Bến Thành, Q1"
+      },
+      {
+        "name": "Pasteur Street Brewing Co. ",
+        "description": "Award-winning craft beer made in Saigon, Vietnam utilizing local flavors paired with classic American brewing techniques.",
+        "phone": "0909 899 812",
+        "address": "144 Pasteur Street, District 1, HCMC"
+      },
+      {
+        "name": "Pasteur Street Brewing Company ",
+        "description": "20% discount for takeaway order & free shipping within Thao Dien (minimum 200k). 1 free serving of chicken bites/grilled cheese when order 2L growler with beer/refilling growler, 1 graffiti T-shirt for order of 24 cans, free soap for order from 300k.",
+        "phone": "+84 28 6273 0562",
+        "address": "120 Xuan Thuy Thao Dien District 226A Le Thanh Ton District 1 // Phone number: +84 28 6278 8895144-144/3 Pasteur Street District 1 // Phone number: +84 28 7300 7375"
+      },
+      {
+        "name": "Patty's Kitchen ",
+        "description": "Patty's Kitchen was created to provide meal preparations, following your culinary preferences and/or health issues. All of our food is homemade, cooked freshly, using only safe and natural ingredients (no MSGs, no preservatives...), for healthier and richer flavors.",
+        "phone": "076 799 2957",
+        "address": "537 Nguyen Duy Trinh, An Phu, District 2"
+      },
+      {
+        "name": "Pergola ",
+        "description": "Cafe, coffee shop and event venue.",
+        "phone": "028 5449 5082",
+        "address": "28A Trần Cao Vân, Phú Nhuận"
+      },
+      {
+        "name": "Phá Lấu Nướng ",
+        "description": "Spicy Phá Lấu Skewers Worth Suffering Traffic For.",
+        "phone": "",
+        "address": "565/21 Nguyễn Trãi, Phường 7, Quận 5, Hồ Chí Minh"
+      },
+      {
+        "name": "Phat's Dumpling House ",
+        "description": "Phat's Dumpling House is a contemporary dumpling restaurant with broad and local flavours inspired by varied Asian cuisines. Shophouse favourites include high quality dumplings made fresh daily, steamed baos, noodle soups and vegetable dishes. Delivery time: 11am - 9.45pm. Our services are available for delivery and pickup. Free minimum delivery from 200,000VND within 5km. 5,000VND/km for delivery order over 5km",
+        "phone": "0902311337",
+        "address": "105 - 107 Xuan Thuy, Thao Dien, District 2"
+      },
+      {
+        "name": "Pho Chay Nhu ",
+        "description": "Delicious vegetarian food delivered in a laid-back atmosphere",
+        "phone": "",
+        "address": "54 Truong Quyen, Ward 6, District 3"
+      },
+      {
+        "name": "Phở chua Lạng Sơn ",
+        "description": "A Trip to the Chessboard for Lang Son’s Sweet and Sour Dry Phở",
+        "phone": "",
+        "address": "242/101 Nguyễn Thiện Thuật, Q3"
+      },
+      {
+        "name": "Pho Dau ",
+        "description": "Old-School 'Take It or Leave It' Nam Dinh Phở in District 3",
+        "phone": "",
+        "address": "Hẻm 288, Nam Ky Khoi Nghia, Ward 8, D3"
+      },
+      {
+        "name": "Phở Lạc Việt ",
+        "description": "At a far corner of District 7, Phở Lạc Việt serves up a special version of phở that includes lamb. The story of how the dish came to be is a tale crossing continents.",
+        "phone": "090 216 30 00",
+        "address": "38 Đường Số 17, Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
+      },
+      {
+        "name": "Phở Mot Do ",
+        "description": "For Good Phở in Saigon, a Dollar Is All You Need",
+        "phone": "",
+        "address": "76F Phạm Viết Chánh, Bình Thạnh"
+      },
+      {
+        "name": "Pho Phieu Ky ",
+        "description": "Phieu Ky’s Fantastic Phở Sa Tế",
+        "phone": "",
+        "address": "21 Nguyễn Án, P. 11, Quận 5"
+      },
+      {
+        "name": "Phở, Miến Gà Kỳ Đồng ",
+        "description": "Ky Dong's 40-Year-Old Phở Gà Oasis",
+        "phone": "",
+        "address": "14/5Bis Kỳ Đồng, Q3"
+      },
+      {
+        "name": "Pizza & BIa ",
+        "description": "At Pizza & Bia, we cook up classic Italian crusts, and top each base with gourmet toppings. Our dough and sauce are made in the Italian tradition and each pizza is hand tossed to order. We also deliver craft beer six packs and wine!",
+        "phone": "028 3823 9398",
+        "address": "193 Dien Bien Phu Street, District 3"
+      },
+      {
+        "name": "Pizza 4P's ",
+        "description": "Italian food with a Japanese style.",
+        "phone": "+84 28 3622 0500",
+        "address": "8/15 Le Thanh Ton, District 1"
+      },
+      {
+        "name": "Plantrip Cha ",
+        "description": "Specialist in tea from around the world",
+        "phone": "0909 94 95 83",
+        "address": "3A tôn đức thắng, quận 1"
+      },
+      {
+        "name": "Poke Saigon ",
+        "description": "Poke Saigon is a Hawaiian inspired poke with some local flair. Poke Saigon brings high quality, healthy food made fresh everyday.",
+        "phone": "0902474388",
+        "address": "42b Ly Tu Trong, District 1"
+      },
+      {
+        "name": "Prem Bistro & Café ",
+        "description": "Prem Bistro offers a menu of fusion food, mostly plant-based - a mosaic of refreshing flavours, where East meets West.",
+        "phone": "028 6279 9920",
+        "address": "204 Nguyen Dinh Chieu, District 3"
+      },
+      {
+        "name": "Propaganda ",
+        "description": "Vietnamese fusion eatery with design elements reflecting both the colonial and the modern.",
+        "phone": "08 3822 9048",
+        "address": "21 Hàn Thuyên, Bến Nghé, Q1"
+      },
+      {
+        "name": "Propaganda Saigon ",
+        "description": "The menu, with its already famous spring rolls, noodle salads and crunchy rice bowls features simple, wholesome, yet incredibly flavourful food prepared with the best and freshest of ingredients.Think 100% local, envision “redesigned” home cooking, all with Vietnamese ingredients only.",
+        "phone": "028 3822 9048",
+        "address": "21 Han Thuyen, District 1"
+      },
+      {
+        "name": "Pure Bows - Acai Bowls ",
+        "description": "We offer Acai Bowl Smoothies and currently offering 25% off our large bowls to help the economy",
+        "phone": "0866065820",
+        "address": "94 Xuan Thuy, Thao Dien, District 2"
+      },
+      {
+        "name": "Quan 249 ",
+        "description": "Quan 249’s Wondrous Cơm Chiên Emporium",
+        "phone": "",
+        "address": "249 Nguyen Cong Tru, Nguyen Thai Binh Ward, D1"
+      },
+      {
+        "name": "Quán 94 Chính Gốc ",
+        "description": "The súp cua was super legit.",
+        "phone": "",
+        "address": "94 Đinh Tiên Hoàng, Q.1"
+      },
+      {
+        "name": "Quan A Lung ",
+        "description": "The Balanced Beauty of Bacon and Fried Rice",
+        "phone": "",
+        "address": "16 Nguyen Cong Tru, Nguyen Thai Binh Ward, D1"
+      },
+      {
+        "name": "Quán Bụi ",
+        "description": "Upscale Vietnamese in a French colonially decorated space.",
+        "phone": "028 3829 1515",
+        "address": "17A Ngô Văn Năm, Bến Nghé, Q139 Ly Tu Trong, D155 Ngo Quang Huy, D2"
+      },
+      {
+        "name": "Quan Chi Bang ",
+        "description": "Grilled Chicken With a Side of Jet Fuel",
+        "phone": "",
+        "address": "89 Trường Sơn, Tân Bình"
+      },
+      {
+        "name": "Quán của Thời Thanh Xuân ",
+        "description": "Behind the doors of a nondescript house in Phu Nhuan lies Thời Thanh Xuân, a soothing coffee shop where you pick drinks by handing colored sticks to the staff and then pay any amount you're comfortable with.",
+        "phone": "091 414 28 50",
+        "address": "1e Trương Quốc Dung, Phường 8, Phú Nhuận"
+      },
+      {
+        "name": "Quan Cuu Non ",
+        "description": "On Eating Greek With Chopsticks",
+        "phone": "",
+        "address": "395 Hoàng Sa, phường 8, Quận 3, Hồ Chí Minh"
+      },
+      {
+        "name": "Quán Ốc 63 ",
+        "description": "Crab Curry Fit for a King",
+        "phone": "",
+        "address": "63 Nguyễn Trường Tộ, Q4"
+      },
+      {
+        "name": "Quan Thuy - Bún Ngan ",
+        "description": "Quan Thuy’s main dish is bún ngan, a noodle soup made with muscovy duck meat and bamboo shoots",
+        "phone": "",
+        "address": "89 Nguyen Du, Ben Nghe Ward, quận 1"
+      },
+      {
+        "name": "Quan Tin Hung ",
+        "description": "The D5 Beefsteak Joint That Means Business",
+        "phone": "",
+        "address": "370 An Duong Vuong, D5"
+      },
+      {
+        "name": "Quan Truc Bang ",
+        "description": "An Evening of Bánh Xèo Phan Rang and People-Watching by the Canal",
+        "phone": "",
+        "address": "972/6 Trường Sa, Quận 3, Hồ Chí Minh"
+      },
+      {
+        "name": "Quán Ụt Ụt - American BBQ & Beer ",
+        "description": "A love affair with pig & freshly brewed beer.",
+        "phone": "+84 703060247",
+        "address": "168 Vo Van Kiet, District 1"
+      },
+      {
+        "name": "Quán Đạt ",
+        "description": "A popular local spot at the end of Truong Dinh on the Thi Nghe-Nhieu Loc Canal.",
+        "phone": "",
+        "address": "106 Trương Định, Q.3"
+      },
+      {
+        "name": "Qui Lounge ",
+        "description": "QUI – Cuisine Mixology is a Dining Lounge concept; Asian Fusion sharing style cuisine pairing with cocktails and fine wine.",
+        "phone": "0933650868",
+        "address": "22 Lê Thánh Tôn, Bến Nghé, Quận 1"
+      },
+      {
+        "name": "Quince Eatery Saigon ",
+        "description": "Mediterranean cuisine based on cooking on wood fire grill, with a variety of salads, vegetables and sandwiches",
+        "phone": "02838218661",
+        "address": "37bis Ky Con, District 1"
+      },
+      {
+        "name": "R House - Cafe & Dogs Adoption ",
+        "description": "District 2's R House, a \"healthy diner and lounge\" that also houses dogs from a rescue shelter that are ready for adoption.",
+        "phone": "",
+        "address": "Street 63-AP, Van Minh Residential Area, D2"
+      },
+      {
+        "name": "R&J Italian Lounge & Restaurant ",
+        "description": "R&J is a contemporary haven of home-style Italian dining amidst the intimate atmosphere of an exclusive private club.",
+        "phone": "+84 28 3823 6688",
+        "address": "Level B1, Times Square Building, 22 - 36 Nguyen Hue Boulevard & 57 - 69F Dong Khoi Street, District"
+      },
+      {
+        "name": "Rau Củ Nấm Vegan Restaurant ",
+        "description": "Rau Củ Nấm’s menu can be divided into full meals, either rice- or noodles-based; and accompanying snacks. Diners can pick a pasta, mixed noodles or mixed rice for their main course and choose to nibble on some gỏi cuốn, chả giò or a hearty seaweed soup.",
+        "phone": "",
+        "address": "557 Le Van Luong, Tan Phong Ward, D7"
+      },
+      {
+        "name": "Rawberry ",
+        "description": "Rawberry's project goal is to create high quality products using local raw, unprocessed ingredients in their most natural state. We have turned nuts, seeds and fruit into smooth, silky, creamy and very tasty RAW desserts.",
+        "phone": "093 339 62 02",
+        "address": "67 Mai Chi Tho, District 2"
+      },
+      {
+        "name": "Rbar ",
+        "description": "Rbar is a trendy and stylish lobby bar and lounge; inspired by the look and feel of a European street side café.",
+        "phone": "08 3822 0033",
+        "address": "8-15 Tôn Đức Thắng Street, Q.1"
+      },
+      {
+        "name": "Relish & Sons ",
+        "description": "Relish & sons burgers are lovingly made with a healthy food philosophy in mind and fresh high quality ingredients. Our beef patties are 100% Australian grass-fed; our buns are made with a reduced sugar and salt content.",
+        "phone": "0909004294",
+        "address": "105-107 Xuan Thuy, District 2"
+      },
+      {
+        "name": "Riverside Cafe ",
+        "description": "Located inside Renaissance Hotel, this eatery serves up both international and Vietnamese dishes.",
+        "phone": "08 3822 0033",
+        "address": "8-15 Tôn Đức Thắng, Bến Nghé, Q1"
+      },
+      {
+        "name": "Rou company limited ",
+        "description": "We specialise in traditional pork jerky snack, commonly known as bakkwa (salty, sweet dried meat)",
+        "phone": "0367208559",
+        "address": ""
+      },
+      {
+        "name": "Ru Phở Bar ",
+        "description": "Modern Vietnamese eatery.",
+        "phone": "08 3848 2034",
+        "address": "27E Trần Nhật Duật, Tân Định, Q1"
+      },
+      {
+        "name": "Runam Cafe ",
+        "description": "High-end coffee shop that offers delicious food, top-notch coffee and has a gorgeous interior.",
+        "phone": "08 3825 8883",
+        "address": "96 Mạc Thị Bưởi, Bến Nghé, Q1"
+      },
+      {
+        "name": "RuNam d'Or ",
+        "description": "Located in the heart of old colonial French Saigon, Le Maison de RuNam D’Or is an elegant, sophisticated bistro restaurant housed in a quintessentially French style villa.",
+        "phone": "0962461407",
+        "address": "03 Công Xã Paris, Quận 1, Hồ Chí Minh"
+      },
+      {
+        "name": "Ryan’s Grocery ",
+        "description": "Ryan's Grocery is an organic butchery and gluten-free store that caters to the discerning foodie with exquisite tastes or special dietary requirements. We believe in quality foods that provide healthy option for all dietary requirements.",
+        "phone": "+84 812229090",
+        "address": "200 Pasteur Street, Ward 6, District 3"
+      },
+      {
+        "name": "Saigon Bagel ",
+        "description": "Saigon Bagel serves eight kinds of bagels, 13 different sandwiches, house gravlax and pickled herring, cannoli, bagel and tortilla chips with guacamole and salsa, fresh-squeezed juices, craft beer and, of course, great coffee! Delivery available",
+        "phone": "090 979 46 54",
+        "address": "38 Nguyen Cu, Thao Dien, District 2"
+      },
+      {
+        "name": "Saigon Cider ",
+        "description": "Saigon Cider is the first award-winning Craft Organic Cider in Vietnam made with peace, love and apples. Sold in over 180 outlets. Now delivering 6-packs everyday (10am to 10pm) directly to cider-lovers in the Saigon central districts.",
+        "phone": "+84 909 015 998",
+        "address": "Tran Nao, District 2, Ho Chi Minh City"
+      },
+      {
+        "name": "Saigon Outcast ",
+        "description": "Innovative outdoor space dedicated to street art, skateboarding and more.",
+        "phone": "090 236 5780",
+        "address": "188/1 Nguyễn Văn Hưởng, Thảo Điền, Q2"
+      },
+      {
+        "name": "Saladstop! ",
+        "description": "delicious salads and wraps on the go.",
+        "phone": "0902878928",
+        "address": ""
+      },
+      {
+        "name": "Samba Brazilian Steakhouse ",
+        "description": "Traditional Brazilian style churrascaria.",
+        "phone": "08 6254 9888",
+        "address": "10 Thái Văn Lung, Bến Nghé, Q1"
+      },
+      {
+        "name": "Sara Ethiopian ",
+        "description": "A rare Ethiopian eatery in Saigon.",
+        "phone": "",
+        "address": "45 Đỗ Quang Đẩu, Phường, Quận 1, Hồ Chí Minh"
+      },
+      {
+        "name": "Scott's Kitchen ",
+        "description": "American comfort food at it's best. Mac n Cheese, chicken fingers and salads. Check out our Facebook page for great drink specials! Takeaway & delivery",
+        "phone": "0944291697",
+        "address": "33 Dang Thi Nhu District 1"
+      },
+      {
+        "name": "Serious Jerky ",
+        "description": "Serious Jerky specializes in being the best and only locally-made, American-Style Beef Jerky in Vietnam. All of our products are hand-made, using all-natural ingredients and top quality imported Australian beef. No store front. Delivery only.",
+        "phone": "+84 70 7485237",
+        "address": ""
+      },
+      {
+        "name": "SH Garden ",
+        "description": "Traditional Vietnamese with an indoor and outdoor space.",
+        "phone": "028 6680 0188",
+        "address": "98 Nguyễn Huệ, Bến Nghé, Q1"
+      },
+      {
+        "name": "Sheraton Saigon Hotel & Towers ",
+        "description": "Sheraton Saigon proudly presents a brand new takeaway menu to elevate your home dining experience – whether you are looking for a sumptuous feast or an intimate dinner with your loved ones.",
+        "phone": "028 3827 2828",
+        "address": "88 Dong Khoi Street, District 1, Ho Chi Minh City, Vietnam"
+      },
+      {
+        "name": " Simple Place ",
+        "description": "An Expedition to D2's Hole-in-the-Wall Mexican Joint",
+        "phone": "",
+        "address": "35 Tống Hữu Định, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh"
+      },
+      {
+        "name": "Skewer ",
+        "description": "Mediterranean BBQ restaurant.",
+        "phone": "028 3822 4798",
+        "address": "9 Thái Văn Lung, Bến Nghé, Q1"
+      },
+      {
+        "name": "SkyXX - Garden & Lounge ",
+        "description": "An experience to be discovered by cocktail enthusiasts and entertainment fan alike.",
+        "phone": "0906 693 138 – 0906 936 138",
+        "address": "33 Lê Duẩn, 20th Floor, Bến Nghé Ward, District 1, HCMC"
+      },
+      {
+        "name": "Snap Cafe ",
+        "description": "Outdoor cafe that offers food, drinks and cultural activities.",
+        "phone": "028 3519 4532",
+        "address": "32 Trần Ngọc Diện, Thảo Điền, Q2"
+      },
+      {
+        "name": "So Sexy Wines ",
+        "description": "Boutique wines delivered to your door.",
+        "phone": "0938 738 675",
+        "address": "537 Nguyen Duy Trinh, District 2"
+      },
+      {
+        "name": "Somewhereland ",
+        "description": "Harry Potter themed coffee shop.",
+        "phone": "",
+        "address": "61 Hồ Xuân Hương, Phường 6, Quận 3, Hồ Chí Minh"
+      },
+      {
+        "name": "Song Ngư ",
+        "description": "Long-standing restaurant serving Vietnamese cuisine.",
+        "phone": "028 3832 5017",
+        "address": "70-72 Sương Nguyệt Ánh, Bến Thành, Q1"
+      },
+      {
+        "name": "Soul Specialty Coffee ",
+        "description": "Our coffee journey was initiated by the dream of the children growing up in Highland Buon Ma Thuot",
+        "phone": "028 6653 9679",
+        "address": "386/11 Le Van Sy, District 3"
+      },
+      {
+        "name": "Soy Restaurant ",
+        "description": "Asian fusion food, freshly baked pastries with lots of attractive deals delivered to your doors.",
+        "phone": "02873006853",
+        "address": "92A Nguyen Huu Canh, Binh Thanh District"
+      },
+      {
+        "name": "Stoker Woodfired Grill & Bar ",
+        "description": "We offer delivery service for Cocktails and Gin & Tonic Packages. If you return 10 empty cocktail bottles, you will get 1 cocktail free",
+        "phone": "0909192725",
+        "address": "2 Dang Huu Pho, Thao Dien, District 2"
+      },
+      {
+        "name": "Stoker Woodfired Grill & Bar ",
+        "description": "Stoker is a unique fixture on Vietnam’s dining scene for those that like meats well prepared and expertly cooked.",
+        "phone": "08 3824 8691",
+        "address": "44 Mạc Thi Bưởi, Bến Nghé, Q1"
+      },
+      {
+        "name": "Sữa Dừa 8 Tin ",
+        "description": "Legendary Coconut Milk",
+        "phone": "",
+        "address": "33 Đinh Tiên Hoàng, Q.1"
+      },
+      {
+        "name": "Sữa Dừa 8 Tin ",
+        "description": "Cafe that specializes in coconut milk.",
+        "phone": "08 3911 5191",
+        "address": "33 Đinh Tiên Hoàng, Đa Kao, Q1"
+      },
+      {
+        "name": "Sủi cảo ",
+        "description": "Saigon's Sủi Cảo Street",
+        "phone": "",
+        "address": "195 Hà Tôn Quyền, Q11"
+      },
+      {
+        "name": "Sui Cao Dai Nuong ",
+        "description": "A Song of Chives and Fire.",
+        "phone": "",
+        "address": "125 Chau Van Liem, phuong 14, quan 5"
+      },
+      {
+        "name": "SuperGreen ",
+        "description": "Cold-Pressed Juices, Super Smoothies & Fresh Salads. FREE DELIVERY",
+        "phone": "+84 37 8554809",
+        "address": "25 Dang Thi Nhu, District 1"
+      },
+      {
+        "name": "Sushi Ko ",
+        "description": "D4’s Supreme Street Sushi.",
+        "phone": "",
+        "address": "122/42 Vĩnh Khánh, q4"
+      },
+      {
+        "name": "Sushi Nhí ",
+        "description": "TAKE 20% OFF ALL PICK-UP ORDERS OR ENJOY FREE DELIVERY INCLUDE KIMCHI FOR FREE. We're support free delivery to areas of District 2, Binh Thanh, District 1, District 3, District 9, Thu Duc, District 4 and Phu Nhuan.",
+        "phone": "090 312 53 59",
+        "address": "210 Tran Nao, Binh An Ward, District 2"
+      },
+      {
+        "name": "Tacos Fuego ",
+        "description": "SoCal style Mexican Food.",
+        "phone": "0777143900",
+        "address": "Apartment Viet Chanh 0002 Lo D Pham Viet Chanh, Binh Thanh"
+      },
+      {
+        "name": "Tama River ",
+        "description": "Wide variety of Japanese options.",
+        "phone": "08 3744 6782",
+        "address": "14E1 Thảo Điền, Thảo Điền, Q22nd Floor, Thao Dien Pearl, 12 Quoc Huong, D2"
+      },
+      {
+        "name": "Tan Ky Mi Gia ",
+        "description": "In a D1 Corner, a Heated Battle Between Yellow Noodles and Red Noodles.",
+        "phone": "",
+        "address": "151 Tran Quang Khai, Tan Dinh Ward, D1"
+      },
+      {
+        "name": "Tandoor ",
+        "description": "Indian cuisine from both north and south India.",
+        "phone": "028 3930 4839",
+        "address": "39 Ngô Đức Kế, Bến Nghé, Q1"
+      },
+      {
+        "name": "Te Te Craft Beer ",
+        "description": "Tê Tê Craft Beer is doing deliveries at special prices of food and beer from the Tê Tê TapHouse. Tê Tê White Ale, Electric IPA and Mellow Red available in bottles for delivery!",
+        "phone": "+84 847536401",
+        "address": "90 Nguyen Van Thu, Da Kao, District 1, HCMC"
+      },
+      {
+        "name": "Thai Cong Gourmet Vietnamese Fusion Restaurant ",
+        "description": "Thai Cong Restaurant specializes in Gourmet Vietnamese Fusion fine dining cuisine. With a classy luxury atmosphere, ingredients imported from overseas, Thai Cong believes that they will bring the European standard meals experience to diners.",
+        "phone": "02.83.8989.818 - 0988.788.215",
+        "address": "215A1 Nguyễn Văn Hưởng, Thảo Điền, District 2,"
+      },
+      {
+        "name": "Thai House ",
+        "description": "The fairly extensive menu features pretty much everything you would expect from general Thai food, including several common dishes.",
+        "phone": "",
+        "address": "15 Hậu Giang, Tân Bình District"
+      },
+      {
+        "name": "Thai Street ",
+        "description": "Authentic Thai street food - vegan and vegetarian options available.",
+        "phone": "028 6654 9525",
+        "address": "32 Tran Ngoc Dien, Thao Dien, District 2"
+      },
+      {
+        "name": "The Boat House ",
+        "description": "Riverfront restaurant with modern fare.",
+        "phone": "028 3744 6790",
+        "address": "40 Lily, APSC Luxury Villa Compound, 36 Thảo Điền, Q2"
+      },
+      {
+        "name": "The Deck Saigon ",
+        "description": "Located on the banks of the Saigon river. Offers high-end Western fare and cocktails.",
+        "phone": "028 3744 6632",
+        "address": "38 Nguyễn Ư Dĩ, Thảo Điền, Q2"
+      },
+      {
+        "name": "The Fig ",
+        "description": "Coffee shop and cafe that also serves alcoholic beverages.",
+        "phone": "82 2211 3544",
+        "address": "15 Nguyễn Thị Huỳnh, Ward 8, Phú Nhuận District"
+      },
+      {
+        "name": "The Haven ",
+        "description": "At The Haven, they always stay focus on continuous inventing and improving in our Quality of Food and Service. Their talented chefs strive to use locally-sourced, seasonal produce combined with top-grade imported ingredients to create the most unique dining experiences.",
+        "phone": "0911811662 - 0906360898",
+        "address": "37A Trần Khánh Dư, Phường Tân Định, Quận 1"
+      },
+      {
+        "name": "The Hidden Elephant Books & Coffee ",
+        "description": "Wedged in the middle of downtown’s most populous tourist trap, District 1’s Ben Thanh Ward, the place is well-camouflaged by surrounding money exchange shops, three-star hotels, tour agencies and souvenir kiosks that can distract even the most veteran hidden coffee shop hunters.",
+        "phone": "",
+        "address": "2nd Floor, 35 Phan Chu Trinh, Ben Thanh Ward, D1"
+      },
+      {
+        "name": "The Log Restaurant ",
+        "description": "Luxury restaurant inside the GEM Center.",
+        "phone": "0 839 11 09 55",
+        "address": "08 Nguyen Binh Khiem, Da Kao, Q1"
+      },
+      {
+        "name": "The Melbourne Cafe ",
+        "description": "We will do 20% discount in your bill no matter how much you will spend + include a free delivery in the whole District 1, 3 , 4 and 5.",
+        "phone": "093 121 81 75",
+        "address": "254C Bui Vien Street, District 1"
+      },
+      {
+        "name": "The Monkey Gallery Dessert Bar ",
+        "description": "The Monkey Gallery DESSERT BAR is a dessert restaurant serving fusion dessert, cake, and mixology drink with no limitation on creation.",
+        "phone": "0793991992",
+        "address": "1F 91 Mạc Thị Bưởi, D.1"
+      },
+      {
+        "name": "The Monkey Gallery Dining ",
+        "description": "The Monkey Gallery DINING is a modern dining restaurant serving fusion cuisine with no limitation on creation. Embark on a fine art journey of cuisine as you come to dine at our unique Dining Room.Lunch: 11:30am - 2:30pmDinner: 6:00pm - 10:00pmClosed on Wednesday",
+        "phone": "0793991992",
+        "address": "3F 91 Mạc Thị Bưởi, D.1"
+      },
+      {
+        "name": "The Organik House ",
+        "description": "Vegan/Healthy/Eco consciuos",
+        "phone": "0902150516",
+        "address": "7f Nguyen Thi Minh Khai District 1"
+      },
+      {
+        "name": "The Other Place ",
+        "description": "While still staying true to our particular Asian inspired cross-culture cooking style, this menu is designed to be a lot more on the comfort side and very delivery-friendly. Free ship for order over 200k in 5km away.",
+        "phone": "0765430426",
+        "address": "93 Ton That Dam, District 1"
+      },
+      {
+        "name": "The Refinery ",
+        "description": "A high-end restaurant located in a former opium refinery.",
+        "phone": "08 3823 0509",
+        "address": "74 Hai Bà Trưng, Bến Nghé, Q1"
+      },
+      {
+        "name": "The Royal Pavillion ",
+        "description": "Cantonese cuisine using refined ingredients in an opulent setting.",
+        "phone": "028 6268 1888",
+        "address": "The Reverie Saigon (level 4), 22-36 Nguyen Hue Boulevard, Ben Nghe Ward, Q1"
+      },
+      {
+        "name": "The Secret Garden ",
+        "description": "A rooftop eatery hidden in an old apartment building.",
+        "phone": "091 439 8309",
+        "address": "158Bis Pasteur, Bến Nghé, Q1"
+      },
+      {
+        "name": "The Smoothie Factory ",
+        "description": "Smoothie, pressed juice & salad",
+        "phone": "093 863 70 75",
+        "address": ""
+      },
+      {
+        "name": "The Snap Cafe ",
+        "description": "Great comfort food from around the world: Gourmet burgers, Italian, Mexican, Vietnamese, Salads, Sandwiches, Breakfast and much more. Vegetarian menu available. Free delivery.",
+        "phone": "028 3519 4532",
+        "address": "32 Tran Ngoc Dien, Thao Dien, Quan 2, HCMC"
+      },
+      {
+        "name": "The Street ",
+        "description": "Making Good Life Decisions With Midday Rice Wine and Hanoi Deep-Fried Food.",
+        "phone": "",
+        "address": "260A Pasteur, D3"
+      },
+      {
+        "name": "The Sushi Bar ",
+        "description": "Chain offering sushi and Japanese specialties.",
+        "phone": "(028) 38244491; (028) 39118618",
+        "address": "179B, Hai Ba Trung, Q354 Nguyen Dinh Chieu, Q12, Saigon Court 2nd Floor – 149 Nguyen Dinh Chieu St., Q3"
+      },
+      {
+        "name": "The Tavern ",
+        "description": "The Tavern is currently offering 15% off all Delivery & Pickup orders from its full menu of deliciously satisfying pub grub (plus craft & import beers, and wine). Free delivery to d7 and we ship to most other districts.",
+        "phone": "02854103900",
+        "address": "R2-24 Bui Bang Doan, Phu My Hung, District 7"
+      },
+      {
+        "name": "The Wagon Wheel ",
+        "description": "We here at The Wagon Wheel specialize in American style comfort food to give you a feeling and taste of home or perhaps a new experience all together. From authentic American style pork ribs and home-style meatloaf to deep fried chicken.",
+        "phone": "093 8070102",
+        "address": "200 Le Thanh Ton, Ben Thanh Ward, District 1"
+      },
+      {
+        "name": "Tiệm Café Saigon Retro ",
+        "description": "The café contains a sensible amount of vintage décor, such as analog cameras, 60s posters and a tattered cover of The Carpenters’ ‘Close to You’ record",
+        "phone": "",
+        "address": "55 Trần Quốc Toản, P. 8, Quận 3"
+      },
+      {
+        "name": "Tiệm Cơm Thố Chuyên Ký ",
+        "description": "60 Years of Guangdong-Style Chinese Food in the Old Market",
+        "phone": "",
+        "address": "65-67 Tôn Thất Đạm, Bến Nghé, Quận 1"
+      },
+      {
+        "name": "Tippy's Mexican Food ",
+        "description": "Saigon's Premier Burrito Shop offering burritos, tacos, quesadillas, nachos, burrito bowls, and more. We use only high quality ingredients, make our own tortillas in house and strive for excellent customer service and keeping bellys full!",
+        "phone": "0378052168",
+        "address": "99 street 45, District 4"
+      },
+      {
+        "name": "Tokyo Deli ",
+        "description": "Popular sushi chain.",
+        "phone": "(08) 5404 2244",
+        "address": "240 Le Thanh Ton St., Q1120bis Tran Hung Dao St., Q187 Dien Bien Phu, Q1"
+      },
+      {
+        "name": "Tomatito Saigon ",
+        "description": "This sexy tapas bar is Chef Willy’s casual interpretation of the prêt-à-porter concept. Willy has a very personal perception of style, that is reflected in all his creations with colorful, funky and eclectic! #bestrestaurant2018",
+        "phone": "0869388864",
+        "address": "171 Calmette, Lau1/1stFl, District 1"
+      },
+      {
+        "name": "Tous Les Jours ",
+        "description": "South Korean French - Asian bakery with locations all over the city.",
+        "phone": "08 3823 8302",
+        "address": "180 Hai Bà Trưng, Bến Nghé, Q1"
+      },
+      {
+        "name": "Trầm Cafe ",
+        "description": "A minimalist, vintage cafe.",
+        "phone": "090 951 1095",
+        "address": "100 Trần Huy Liệu, Ward 5, Phú Nhuận"
+      },
+      {
+        "name": "Truffle Restaurant ",
+        "description": "Overlooking the whole city from level 73, Truffle Restaurant enjoys a prime location on the Vietnams’ tallest building - Landmark 81. In this classy and elegant restaurant, guests are guaranteed the finest dining experiences by preserving personalized services with international standards.()",
+        "phone": "+84 988 783 353 / +84 28 3899 8899",
+        "address": "Vincom Landmark 81, Nguyễn Hữu Cảnh, Vinhomes Central Park, Phường 22, Bình Thạnh, Ho Chi Minh City, Vietnam"
+      },
+      {
+        "name": "Twelve Chicken Rice  ",
+        "description": "Tried-and-True Singaporean-Style Hainanese Chicken Rice in D4",
+        "phone": "",
+        "address": "12C2 Đường Số 45, Quận 4"
+      },
+      {
+        "name": "Umi ",
+        "description": "Traditional Japanese fare.",
+        "phone": "08 3822 4552",
+        "address": "3 Lê Thánh Tôn, Bến Nghé, Q1"
+      },
+      {
+        "name": "Union Jack's Fish and Chips ",
+        "description": "Union Jack's is delivering top notch authentic British comfort food. From Fish & Chips, Meat Pies, Bangers & Mash and grandma's Beef & Ale stew. 11am - 11pm delivery to D1, D2, D3, d4 ,d5, d10, Binh Thanh, Phu Nhuan by our own delivery team.",
+        "phone": "0767286183",
+        "address": "130-1 Ton That Dam, Ben Nghe Ward, District 110 Nguyen Ba Lan, Thao Dien, District 2"
+      },
+      {
+        "name": "Urban Fresh Hoi An ",
+        "description": "URBAN FRESH is Hoi An’s new gastro cafe & delivery service. With stunning views from riverside tables and an air-conditioned dining room, you’ll be relaxing in no time. Open 11:30am - 9pm daily. Happy hour 3-6pm with cocktails, craft beer & wine 60k.",
+        "phone": "+84 898 527 347",
+        "address": "37 Phan Boi Chau, Hoi An"
+      },
+      {
+        "name": "Urban Kitchen + Bar ",
+        "description": "Urban Kitchen + Bar focuses on delicious American and International fare complemented by handcrafted cocktails.",
+        "phone": "08 6250 6363",
+        "address": "18 Ngo Van Nam, Ben Nghe, Q1"
+      },
+      {
+        "name": "Va Thanh ",
+        "description": "An unassuming restaurant with top-notch Taiwanese home-style cooking.",
+        "phone": "",
+        "address": "40 Huỳnh Mẫn Đạt, P.2, Quận 5"
+      },
+      {
+        "name": "Viet Kitchen ",
+        "description": "Viet Kitchen is a trendy lifestyle-driven dining and networking spot in Ho Chi Minh City, where modern design and ambience meet traditional and global flavors.",
+        "phone": "08 3822 0033",
+        "address": "8-15 Tôn Đức Thắng Street, Q.1"
+      },
+      {
+        "name": "VietHeritage ",
+        "description": "Authentic Vietnamese cuisine served in a peaceful atmosphere.",
+        "phone": "028 3930 2306",
+        "address": "48 Võ Văn Tần, 6, Q3"
+      },
+      {
+        "name": "Vietnam House ",
+        "description": "Helmed by internationally-celebrated Chef Luke Nguyen, the newly restored Vietnam House opened its doors in July and is already becoming a landmark in Ho Chi Minh City’s culinary scene.",
+        "phone": "",
+        "address": "93 – 95 – 97 Dong Khoi, D.1, HCMC"
+      },
+      {
+        "name": "Villa Royale Antiques & Tea Room ",
+        "description": "Villa Royale is a place to forget the millions of motorbikes, the hustle and bustle and the constant “go” of Saigon. It is a place where you can relax, regroup and reflect, surrounded by all things yesteryear.",
+        "phone": "08 3744 4897",
+        "address": "3 Trần Ngọc Diện, Thảo Điền, Q2Lầu 1, 25 Hồ Tùng Mậu, Q1"
+      },
+      {
+        "name": "Villa Song Saigon ",
+        "description": "Enjoy Vietnamese, Asian and Western cuisine paired with wine and cocktails at the romantic and perfect dine distancing by the Saigon river. Book your riverside table earlier!Available Take Away and Delivery, Call/Zalo/WhatsApp/Line 077 244 6090.",
+        "phone": "0772446090",
+        "address": "District 2"
+      },
+      {
+        "name": "Vit Vi Vu - The Gliding Duck ",
+        "description": "Duck restaurant with Retro style",
+        "phone": "0901 555 058",
+        "address": "55 Dang Van Ngu, Ward 14, Phu Nhuan Dist., HCMC"
+      },
+      {
+        "name": "Viva! Tapas Bar & Grill ",
+        "description": "Authentic Spanish Tapas in the heart of Phu My Hung.",
+        "phone": "+84 8 5410 672",
+        "address": "90 Cao Triệu Phát"
+      },
+      {
+        "name": "Voelker ",
+        "description": "French patisserie and chocolatier.",
+        "phone": "08 6296 0066",
+        "address": "39 Thảo Điền, Thảo Điền, Q2"
+      },
+      {
+        "name": " Vừng Ơi Mở Ra Cafe ",
+        "description": "Saigon has plenty of cafes, but Vừng Ơi Mở Ra Cafe goes against the trends.",
+        "phone": "028 2215 7813",
+        "address": "61 Trần Quốc Thảo, Phường 7, Quận 3"
+      },
+      {
+        "name": "Vỹ Dạ Quán ",
+        "description": "Saigon's Street Food Unicorn",
+        "phone": "",
+        "address": "62 Lý Tự Trọng, Q1"
+      },
+      {
+        "name": "Wok N' Roll ",
+        "description": "American Chinese Cuisine.",
+        "phone": "0902550978",
+        "address": "E006 Khu phố Hưng Vượng 1, đường số 6, quận 7"
+      },
+      {
+        "name": "Wrap & Roll ",
+        "description": "This chain offers do-it-yourself traditional Vietnamese fare.",
+        "phone": "08 3821 8971",
+        "address": "111 Nguyễn Huệ, Bến Nghé, Q1"
+      },
+      {
+        "name": "Xôi Chiên Phi Long ",
+        "description": "The Long but Worthwhile Wait for Xôi Chiên",
+        "phone": "",
+        "address": "41 Nguyễn Trãi, Q5"
+      },
+      {
+        "name": "Xôi Gà Chợ Bà Chiểu ",
+        "description": "One order of xôi gà includes sticky rice and a fried chicken drumstick.",
+        "phone": "",
+        "address": "Chợ Bà Chiểu, Q. Bình Thạnh"
+      },
+      {
+        "name": "Xôi Khâu Nhục ",
+        "description": "With a whole slab of braised pork belly on top, District 11's xôi khâu nhục might be pretty low on the list of healthiest dishes you will consume this month.",
+        "phone": "",
+        "address": "236 Lãnh Binh Thăng, Phường 13, Quận 11, Thành phố Hồ Chí Minh"
+      },
+      {
+        "name": "Xôi mặn ",
+        "description": "D5's Drop-Dead Delicious Xôi Mặn.",
+        "phone": "",
+        "address": "409 Trần Phú, Q5"
+      },
+      {
+        "name": "Yên Cafe ",
+        "description": "Coffee shop with live music acts.",
+        "phone": "090 768 68 56",
+        "address": "9 Phạm Đình Toái, Ward 6, Q3"
+      },
+      {
+        "name": "Yoshino Japanese Restaurant ",
+        "description": "Elegant interior design, authentic Japanese cuisine.",
+        "phone": "028 3823 3333",
+        "address": "2A-4A Tôn Đức Thắng, Bến Nghé, Q1"
+      },
+      {
+        "name": "Yoty Quan ",
+        "description": "In Search of Saigon's Best Home-Cooked Char Kway Teow",
+        "phone": "",
+        "address": "300C1 Nguyen Van Dau, Ward 11, Binh Thanh District"
+      },
+      {
+        "name": "Zannier Hotels Bãi San Hô ",
+        "description": "Located in the Phu Yen province of Vietnam, in the heart of a secluded and preserved 98-hectare natural site, Zannier Hotels Bãi San Hô gives its guests a unique opportunity to explore Vietnam’s best kept secret, away from the usual tourist trail.",
+        "phone": "0257 383 0000",
+        "address": "HoaThanh Hamlet, Xuan Canh Commune, Song Cau District, Phu Yen Province, Vietnam"
+      },
+      {
+        "name": "ZumWhere ",
+        "description": "Started as an authentic craft beer garden, hidden in the heart of the buzzing Saigon to shelter people passing through their broiling bread-work.",
+        "phone": "089 887 6996",
+        "address": "11 Nguyễn Thành Ý, Phường Đa Kao, Quận 1"
+      },
+      {
+        "name": "Điểm Tâm Sáng ",
+        "description": "An Expedition to D11's 7-Way Dim Sum Banquet",
+        "phone": "",
+        "address": "108B Đường Xóm Đất, Phường 8, Quận 11"
+      }
+    ]
+  },
+  "item_scraped_count": 431
+}

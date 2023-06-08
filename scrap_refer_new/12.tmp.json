@@ -1,0 +1,1303 @@
+<div id="product_list">
+                <div id="navibar">
+                    
+                    <a href="/home/vn"><img src="/Contents/Img/nav_home_icon.png"></a><a class="no_link">&nbsp;Cửa hàng B’s mart&nbsp;|</a><a class="no_link">&nbsp;Thông tin cửa hàng&nbsp;</a>
+                </div>
+                
+                <div class="pro_list_name">
+                    <span id="ContentPlaceHolder1_lbLocationHeadName">Thông tin cửa hàng</span></div>
+                
+                <div class="pro_list_name_dropdown">
+                    <span id="ContentPlaceHolder1_StoreInfoList_lbStoreLocation">Vị trí cửa hàng : </span><select name="ctl00$ContentPlaceHolder1$StoreInfoList$ddlLocationGroup" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolder1$StoreInfoList$ddlLocationGroup\',\'\')', 0)" id="ContentPlaceHolder1_StoreInfoList_ddlLocationGroup">
+	<option selected="selected" value="-1">Tất cả các cửa hàng</option>
+	<option value="1">QUẬN 1</option>
+	<option value="7">QUẬN 10</option>
+	<option value="8">QUẬN 11</option>
+	<option value="17">QUẬN 12</option>
+	<option value="14">QUẬN 2</option>
+	<option value="2">QUẬN 3</option>
+	<option value="3">QUẬN 4</option>
+	<option value="4">QUẬN 5</option>
+	<option value="15">QUẬN 6</option>
+	<option value="5">QUẬN 7</option>
+	<option value="6">QUẬN 8</option>
+	<option value="16">QUẬN 9</option>
+	<option value="19">Quận Bình Chánh</option>
+	<option value="20">Quận BÌNH TÂN</option>
+	<option value="11">QUẬN BÌNH THẠNH</option>
+	<option value="13">QUẬN GÒ VẤP</option>
+	<option value="12">QUẬN PHÚ NHUẬN</option>
+	<option value="10">QUẬN TÂN BÌNH</option>
+	<option value="9">QUẬN TÂN PHÚ</option>
+	<option value="18">Quận Thủ Đức</option>
+
+</select>
+&nbsp;</div>
+                <div class="pro_list_name_group">QUẬN 1</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/Store-02.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 2</div>
+                            <div class="promo_content_box2_store">38/1 bis Trần Khắc Chân, Phường Tân Định, Quận 1</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)38483880</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=2">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/49 - Nguyen Cu Trinh-08.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 49</div>
+                            <div class="promo_content_box2_store">39 Nguyễn Cư Trinh, Phường Nguyễn Cư Trinh, Quận 1</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)38385712</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=48">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 3</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/Store-02.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 10</div>
+                            <div class="promo_content_box2_store">406C Cách Mạng Tháng 8, Phường 7, Quận 3</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)39310510</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=10">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/32-Tran Quang Dieu-02-01.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 32</div>
+                            <div class="promo_content_box2_store">63 Trần Quang Diệu, Phường 13, Quận 3</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)39311631</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=31">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/40 - Le Van Sy-04.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 40</div>
+                            <div class="promo_content_box2_store">268 Lê Văn Sỹ, Phường 14, Quận 3</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)35262446</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=39">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/13070-06.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 70</div>
+                            <div class="promo_content_box2_store">112 Nguyễn Phúc Nguyên, Phường 9, Quận 3</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39311257</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=72">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/13072-03.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 72</div>
+                            <div class="promo_content_box2_store">250A Lý Chính Thắng, Phường 9, Quận 3</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 35260669</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=74">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 4</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/Vinh Hoi-01.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 87</div>
+                            <div class="promo_content_box2_store">2C Vĩnh Hội, Phường 3, Quận 4 </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39409866</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=90">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/Khanh Hoi-01.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 80</div>
+                            <div class="promo_content_box2_store">288 Khánh Hội, Phường 5, Quận 4</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39410166</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=92">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 5</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/13082-01.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 82</div>
+                            <div class="promo_content_box2_store">25C Sư Vạn Hạnh, Phường 9, Quận 5</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38305197</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=85">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 7</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/Store-05.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 56</div>
+                            <div class="promo_content_box2_store">352 Lê Văn Lương, Phường Tân Hưng, Quận 7</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)37711988</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=55">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/61-Tan My.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 61</div>
+                            <div class="promo_content_box2_store">35 Tân Mỹ, Phường Tân Phú, Quận 7</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 37711712</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=62">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_4523.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 137</div>
+                            <div class="promo_content_box2_store">198/37 Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)38722699</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=146">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 8</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/60 - Duong Ba Trac-10.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 60</div>
+                            <div class="promo_content_box2_store">126 Dương Bá Trạc, Phường 2, Quận 8</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38523651</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=63">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/63 - Nguyen thi Tan-09.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 63</div>
+                            <div class="promo_content_box2_store">11N Nguyễn Thị Tần, Phường 2, Quận 8</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38511104</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=65">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/67 - Pham The Hien.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 67</div>
+                            <div class="promo_content_box2_store">769D Phạm Thế Hiển, Phường 4, Quận 8</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38520577</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=73">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/CH 100.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 100</div>
+                            <div class="promo_content_box2_store">8A Bùi Minh Trực, Phường 5, Quận 8</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39813650</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=105">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/132x132-01.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store"> Cửa hàng 106</div>
+                            <div class="promo_content_box2_store">17 Huỳnh Thị Phụng, phường 4, quận 8</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38500758</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=110">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/108.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 108</div>
+                            <div class="promo_content_box2_store">425 Hưng Phú, Phường 8, Quận 8.</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 38 595 686</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=114">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_1088.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 122</div>
+                            <div class="promo_content_box2_store">111-113 Hưng Phú, Phường 8, Quận 8</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 38595718</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=126">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/119.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 116</div>
+                            <div class="promo_content_box2_store">711 Ba Đình, P. 10, Q. 8
+</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 38 597 990</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=130">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_2070.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 125</div>
+                            <div class="promo_content_box2_store">2 Bình Đông, Phường 15, Quận 8</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)39500906</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=132">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/Mat tien CH148.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 148</div>
+                            <div class="promo_content_box2_store">61 Cao Xuân Dục, Phường 12, Quận 8</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39 501 508</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=160">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/172png.png">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 172</div>
+                            <div class="promo_content_box2_store"> 02 &amp; 04 đường số 13 (Tám Danh) P4, Quận 8</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 028 3620.4942</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=184">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 10</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/13076-07.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 76</div>
+                            <div class="promo_content_box2_store">131 Tô Hiến Thành, Phường 13, Quận 10</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38680196</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=79">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 11</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/20 - Ton That Hiep-02.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 20</div>
+                            <div class="promo_content_box2_store">223 Tôn Thất Hiệp, Phường 12, Quận 11</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)39625801</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=19">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/Zalo_635845717509334824.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 113</div>
+                            <div class="promo_content_box2_store">19 Nguyễn Văn Phú, Phường 5, Quận 11 </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 38 602 126</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=118">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_0490.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 142</div>
+                            <div class="promo_content_box2_store">203 Nguyễn Thị Nhỏ, Phường 16, Quận 11</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39 603 936</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=153">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_3143.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 163</div>
+                            <div class="promo_content_box2_store">109 Lạc Long Quân, P. 1, Q. 11
+</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38 580 115</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=175">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN TÂN PHÚ</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/13074-05.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 74</div>
+                            <div class="promo_content_box2_store">104 Trịnh Đình Trọng, Phường Phú Trung, Quận Tân Phú</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39744377</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=77">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/13079-10.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 79 </div>
+                            <div class="promo_content_box2_store">164A Tân Kỳ Tân Quý, Phường Sơn Kỳ, Quận Tân Phú 
+</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38125620</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=84">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/CH 90-01.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 90</div>
+                            <div class="promo_content_box2_store">47 Đường S11, Phường Tây Thạnh, Quận Tân phú</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38164067</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=94">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/132x132-01.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 105</div>
+                            <div class="promo_content_box2_store">24 Hoa Bằng, phường Tân Sơn Nhì, quận Tân Phú. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38106007</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=109">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/CH113.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 115</div>
+                            <div class="promo_content_box2_store">147 Lý Thánh Tông, P. Tân Thới Hoà, Q. Tân Phú
+</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 39 612 326</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=129">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_4754.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 141</div>
+                            <div class="promo_content_box2_store">17 Khuông Việt, Phường Phú Trung, Quận Tân Phú</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38 601 832</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=150">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/DSC_4231.png">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 175</div>
+                            <div class="promo_content_box2_store">324 Tân Kỳ Tân Quý, Phường Sơn Kỳ, Quận Tân Phú</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=187">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN TÂN BÌNH</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/46-Le Van Sy-07.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 66</div>
+                            <div class="promo_content_box2_store">226D Lê Văn Sỹ, Phường 1, Quận Tân Bình</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39970188</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=68">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/FullSizeRender.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 112 </div>
+                            <div class="promo_content_box2_store">72 Thân Nhân Trung, Phường 13, Quận Tân Bình.</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 38 122 282</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=113">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_6813.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 136</div>
+                            <div class="promo_content_box2_store">5 Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)38155525</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=143">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_4711.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 139</div>
+                            <div class="promo_content_box2_store">294 Hồng Lạc, Phường 11, Quận Tân Bình</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38 691 816</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=149">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN BÌNH THẠNH</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/54-QL13-03.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 54</div>
+                            <div class="promo_content_box2_store">156 Quốc lộ 13, Phường 26, Quận Bình Thạnh</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)35119959</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=53">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/103.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 103	</div>
+                            <div class="promo_content_box2_store">43 Nguyễn Thượng Hiền, phường 9, quận Bình Thạnh. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=108">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/Hình Cửa Hàng.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 135</div>
+                            <div class="promo_content_box2_store"> 28 Đường 8, Phường 26, Quận Bình Thạnh</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)35550014</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=142">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG20160428084226.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 134</div>
+                            <div class="promo_content_box2_store">245D Chu Văn An, Phường 12, Quận Bình Thạnh.</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)38060868</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=145">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/website IMG_4645.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 138</div>
+                            <div class="promo_content_box2_store">11 Phú Mỹ, Phường 22, Quận Bình Thạnh</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38 408 098</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=147">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_5115.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 147</div>
+                            <div class="promo_content_box2_store">31 Bùi Đình Túy, Phường 26, Quận Bình Thạnh</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 35 111 328</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=156">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN PHÚ NHUẬN</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/Store 12 DVN.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 12</div>
+                            <div class="promo_content_box2_store">141A02 Đặng Văn Ngữ, Phường 14, Quận Phú Nhuận</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)39917320</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=12">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/DSC_4332.png">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 26</div>
+                            <div class="promo_content_box2_store">36 Nguyễn Văn Đậu, Phường 5, Quận Phú Nhuận</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)35150885</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=25">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/35-Dang Van Ngu-02.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 35</div>
+                            <div class="promo_content_box2_store">29 Đặng Văn Ngữ, Phường 10, Quận Phú Nhuận</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)39915103</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=34">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_1595.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 155</div>
+                            <div class="promo_content_box2_store">553/73 Nguyễn Kiệm, phường 9, Quận Phú Nhuận</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39 976 966</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=167">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN GÒ VẤP</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/CH117.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 117</div>
+                            <div class="promo_content_box2_store">240 Phạm Văn Chiêu, Phường 9, Quận Gò Vấp</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 38 312 342</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=119">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/ch 111.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 111</div>
+                            <div class="promo_content_box2_store">338-340 Dương Quảng Hàm, P. 5, Q. Gò Vấp
+</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 39 852 251</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=127">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_2682.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 128</div>
+                            <div class="promo_content_box2_store">99A Huỳnh Khương An, Phường 5, Quận Gò Vấp</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)35888991</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=134">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_6317.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 149</div>
+                            <div class="promo_content_box2_store">921 Phạm Văn Bạch, Phường 12, Quận Gò Vấp</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38 311 877</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=157">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_4646.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 157</div>
+                            <div class="promo_content_box2_store">383/7 Quang Trung, Phường 10, Quận Gò Vấp</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39 890 086</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=169">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/162.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 162</div>
+                            <div class="promo_content_box2_store">117/4 Đường Số 3 (Dương Quảng Hàm), Phường 5, Quận Gò Vấp</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38 953 315</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=173">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/164.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 164</div>
+                            <div class="promo_content_box2_store">634 Lê Văn Thọ, P. 13, Q. Gò Vấp
+</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=176">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/location-1497-636344371203871324.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 168</div>
+                            <div class="promo_content_box2_store">708 Phan Văn Tri, Phường 10, Quận Gò Vấp
+</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=180">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 2</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/CH 96_132x132-01.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 96</div>
+                            <div class="promo_content_box2_store">535 Nguyễn Thị Định, Phường Cát Lái, Quận 2</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38976710</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=100">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_1827.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 124</div>
+                            <div class="promo_content_box2_store">66 Đường 15 Phường An Phú, Quận 2</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)62814448</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=131">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_1674.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 156</div>
+                            <div class="promo_content_box2_store">114 Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2 </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 37 438 086</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=165">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 6</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/Minh Phung.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 86</div>
+                            <div class="promo_content_box2_store">201 Minh Phụng, Phường 9, Quận 6 </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39600001</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=89">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_0219.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 144</div>
+                            <div class="promo_content_box2_store">171 Gia Phú, Phường 1, Quận 6</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 39 675 508</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=152">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_0389.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 145</div>
+                            <div class="promo_content_box2_store">210A Phạm Văn Chí, Phường 4, Quận 6</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38 540 048</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=155">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_6327.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 150</div>
+                            <div class="promo_content_box2_store">118A Văn Thân, Phường 8, Quận 6 </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38 543 859</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=158">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_1770.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 154</div>
+                            <div class="promo_content_box2_store">163A Tân Hòa Đông, Phường 14, Quận 6</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38 777 098</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=164">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 160</div>
+                            <div class="promo_content_box2_store">173 Phan Văn Khỏe, Phường 5, Quận 6</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=188">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 9</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/CH102-02.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 102</div>
+                            <div class="promo_content_box2_store">436 Lê Văn Việt, Phường Tăng Nhơn Phú A, Quận 9</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=107">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/120 duong 18.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 120</div>
+                            <div class="promo_content_box2_store">29 Đường 18, Phường Phước Bình, Quận 9</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 37282188</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=124">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG20170209093709.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 165</div>
+                            <div class="promo_content_box2_store">105 Dương Đình Hội, P. Phước Long B, Q. 9
+</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=177">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/DSC_4340.png">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 173</div>
+                            <div class="promo_content_box2_store">Sky9- Số 1 đường số 1, Phường Phú Hữu, Quận 9</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=189">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">QUẬN 12</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/CH126.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 126</div>
+                            <div class="promo_content_box2_store">175 KP5, Phường Đông Hưng Thuận, Quận 12</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08)35921126</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=135">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">Quận Thủ Đức</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/109.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 109</div>
+                            <div class="promo_content_box2_store">43 Chương Dương, Linh Chiểu, Quận Thủ Đức</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. 37 201 686</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=117">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/20170209_080940-1.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 159</div>
+                            <div class="promo_content_box2_store">18A Phú Châu, Phường Tam Phú, Quận Thủ Đức</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 37 298 202</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=172">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/IMG_1328.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 158</div>
+                            <div class="promo_content_box2_store">240 Hoàng Diệu 2, P. Linh Chiểu, Q. Thủ Đức
+</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 38 973 866</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=174">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/162.JPG">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa Hàng 166</div>
+                            <div class="promo_content_box2_store">357 Tô Ngọc Vân, P. Linh Đông, Q. Thủ Đức 
+</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=178">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 169</div>
+                            <div class="promo_content_box2_store">211 Tô Ngọc Vân, Phường Linh Đông, Quận Thủ Đức</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=190">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>                    <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 174</div>
+                            <div class="promo_content_box2_store">Số 82 đường 17, Phường Linh Chiểu, Quận Thủ Đức</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. </div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=191">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">Quận Bình Chánh</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/CH 91-02.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store">Cửa hàng 91</div>
+                            <div class="promo_content_box2_store">48 Đường số 10 Bình Hưng Quận Bình Chánh</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (08) 3 758 9175</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=101">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>                <div class="pro_list_name_group">Quận BÌNH TÂN</div>                <div class="promo_list_item">
+                                        <div class="promo_col_1_store">
+                        <div class="promo_list_item_img">
+                            <img class="square" src="../Contents/Img/data/CH 107-02.jpg">
+                        </div>
+                        <div class="promo_list_item_content_store">
+                            <div class="promo_content_box1_store"> Cửa hàng 107</div>
+                            <div class="promo_content_box2_store">221 Đường số 5, phường Bình Hưng Hòa, quận Bình Tân.</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/tel_mini_icon.png">Số điện thoại. (028) 37673024</div>
+                            <div class="promo_content_box3_store">
+                                <img alt="" src="../Contents/Img/map_point_mini.png"><a class="fancybox fancybox.iframe" href="/map?id=111">Bản đồ &gt;&gt;</a></div>
+                            <div class="clear-all"></div>
+                        </div>
+                        <div class="clear-all"></div>
+                    </div>
+                    <div class="clear-all"></div>
+                </div>
+                
+            </div>

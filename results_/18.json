@@ -1,0 +1,174 @@
+{
+  "type": "Feature",
+  "name": "sgpbusiness",
+  "POI:Category": "generic",
+  "store_url": "https://www.sgpbusiness.com/company/Grand-Cruise-Pte-Ltd#Overview",
+  "website": "https://www.sgpbusiness.com/company/Grand-Cruise-Pte-Ltd#Overview",
+  "properties": {
+    "entities": {
+      "activity": {
+        "principal": [
+          {
+            "name": "INFINITY SAILS PTE. LTD.",
+            "content": "2 VENTURE DRIVE",
+            "link": "https://www.sgpbusiness.com/company/Infinity-Sails-Pte-Ltd"
+          },
+          {
+            "name": "SEERAK OFFSHORE PTE. LTD.",
+            "content": "3 SHENTON WAY",
+            "link": "https://www.sgpbusiness.com/company/Seerak-Offshore-Pte-Ltd"
+          },
+          {
+            "name": "DEMPO GLOBAL CORPORATION PTE. LTD.",
+            "content": "4 BATTERY ROAD",
+            "link": "https://www.sgpbusiness.com/company/Dempo-Global-Corporation-Pte-Ltd"
+          },
+          {
+            "name": "FELZ MARINE PTE. LTD.",
+            "content": "3791 JALAN BUKIT MERAH    Fomerly known as: FELZ TECHNOLOGY PTE. LTD. • NORFIN ENGINEERING PTE. LTD.",
+            "link": "https://www.sgpbusiness.com/company/Felz-Marine-Pte-Ltd"
+          },
+          {
+            "name": "MY SUNNY MARINE",
+            "content": "25 TECK WHYE LANE",
+            "link": "https://www.sgpbusiness.com/company/My-Sunny-Marine"
+          },
+          {
+            "name": "WHITE SAILS YACHT PTE. LTD.",
+            "content": "88 JALAN BUMBONG    www.whitesails.com.sg    Phone: +65-81808008",
+            "link": "https://www.sgpbusiness.com/company/White-Sails-Yacht-Pte-Ltd"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "DREAMZCOFFEE",
+            "content": "48A CLUB STREET",
+            "link": "https://www.sgpbusiness.com/company/Dreamzcoffee"
+          },
+          {
+            "name": "BOOMERANG VISUAL PRODUCTION",
+            "content": "247 SIMEI STREET 5    Fomerly known as: BLINK PICTURE PRODUCTION",
+            "link": "https://www.sgpbusiness.com/company/Boomerang-Visual-Production"
+          },
+          {
+            "name": "FLY PIXAR IMAGING PTE. LTD.",
+            "content": "342 MILTONIA CLOSE",
+            "link": "https://www.sgpbusiness.com/company/Fly-Pixar-Imaging-Pte-Ltd"
+          },
+          {
+            "name": "THEME VISUALS",
+            "content": "11 WOODLANDS CLOSE    Fomerly known as: THEME PHOTOGRAPHY • THEME VISUAL",
+            "link": "https://www.sgpbusiness.com/company/Theme-Visuals"
+          },
+          {
+            "name": "MY DREAM WEDDING (HK) PTE. LTD.",
+            "content": "8 BURN ROAD    www.mydreamwedding.com.sg    Phone: +65-64381237",
+            "link": "https://www.sgpbusiness.com/company/My-Dream-Wedding-Hk-Pte-Ltd"
+          },
+          {
+            "name": "DIGI COLOR PTE. LTD.",
+            "content": "11 WOODLANDS CLOSE",
+            "link": "https://www.sgpbusiness.com/company/Digi-Color-Pte-Ltd"
+          }
+        ]
+      },
+      "similar": {
+        "local": [
+          {
+            "name": "GRAND (I.C) PTE. LTD.",
+            "content": "Struck Off  UEN: 201226740W  152 BEACH ROAD",
+            "link": "https://www.sgpbusiness.com/company/Grand-Ic-Pte-Ltd"
+          },
+          {
+            "name": "GRAND CRUISES HOLDINGS PTE. LTD.",
+            "content": "Struck Off  UEN: 201230058R  190 MIDDLE ROAD    Fomerly known as: GRAND CRUISES PTE. LTD.",
+            "link": "https://www.sgpbusiness.com/company/Grand-Cruises-Holdings-Pte-Ltd"
+          },
+          {
+            "name": "GRAND 8 SERVICES PTE. LTD.",
+            "content": "Live Company  UEN: 201413324W  21 WOODLANDS CLOSE\n    Fomerly known as: GRAND OFFSHORE ENGINEERING PTE. LTD.",
+            "link": "https://www.sgpbusiness.com/company/Grand-8-Services-Pte-Ltd"
+          },
+          {
+            "name": "GRAND & ABLE CO. PTE. LTD.",
+            "content": "Struck Off  UEN: 200414947N  10 ANSON ROAD",
+            "link": "https://www.sgpbusiness.com/company/Grand-And-Able-Co-Pte-Ltd"
+          },
+          {
+            "name": "GRAND 10 PTE LTD",
+            "content": "Struck Off  UEN: 199000896Z  231 BAIN STREET",
+            "link": "https://www.sgpbusiness.com/company/Grand-10-Pte-Ltd"
+          },
+          {
+            "name": "GRAND & COMPANY",
+            "content": "Terminated  UEN: 04784200L  161 BENCOOLEN STREET",
+            "link": "https://www.sgpbusiness.com/company/Grand-And-Company"
+          },
+          {
+            "name": "GRAND 8 BISTRO PTE. LTD.",
+            "content": "Live Company  UEN: 202119735M  511 GUILLEMARD ROAD",
+            "link": "https://www.sgpbusiness.com/company/Grand-8-Bistro-Pte-Ltd"
+          }
+        ],
+        "other": [
+          {
+            "name": "GRAND MASTER LEISURE PRODUCTS INC.",
+            "link": "https://www.can1business.com/company/Grand-Master-Leisure-Products-Inc"
+          },
+          {
+            "name": "GRAND JUNCTION DODGE CHRYSLER LTD.",
+            "link": "https://www.can1business.com/company/Grand-Junction-Dodge-Chrysler-Ltd"
+          },
+          {
+            "name": "GRAND AUTO AS",
+            "link": "https://www.nor47business.com/company/Grand-Auto-As"
+          },
+          {
+            "name": "GRAND AUTO KHAN",
+            "link": "https://www.nor47business.com/company/Grand-Auto-Khan"
+          },
+          {
+            "name": "GRAND STRAND PTY. LTD.",
+            "link": "https://www.aus61business.com/company/Grand-Strand-Pty-Ltd-1"
+          },
+          {
+            "name": "GRAND RIDGE PLANTATIONS PTY LTD",
+            "link": "https://www.aus61business.com/company/Grand-Ridge-Plantations-Pty-Ltd-1"
+          },
+          {
+            "name": "GRAND HOTEL COMPANY LIMITED -THE-",
+            "link": "https://www.hkgbusiness.com/company/The-Grand-Hotel-Company-Limited"
+          },
+          {
+            "name": "GRAND HOTEL DES WAGONS-LITS, LIMITED",
+            "link": "https://www.hkgbusiness.com/company/Grand-Hotel-Des-Wagonslits-Limited"
+          },
+          {
+            "name": "GRAND UK HOTELS LTD",
+            "link": "https://www.gbrbusiness.com/company/Anglia-Hosts-Limited"
+          },
+          {
+            "name": "GRAND VISDOM HOLDING LIMITED",
+            "link": "https://www.gbrbusiness.com/company/Bin-Trading-Investment-Limited"
+          },
+          {
+            "name": "GRAND HOTEL (SEREMBAN) LTD",
+            "link": "https://www.mysbusiness.com/company/Grand-Hotel-Seremban-Ltd"
+          },
+          {
+            "name": "GRAND HOTEL (IPOH) LTD",
+            "link": "https://www.mysbusiness.com/company/Grand-Hotel-Ipoh-Ltd"
+          },
+          {
+            "name": "GRAND NATIONAL HOTEL WGTON LIMITED",
+            "link": "https://www.nzlbusiness.com/company/Grand-National-Hotel-Wgton-Limited"
+          },
+          {
+            "name": "GRAND MEATS LIMITED",
+            "link": "https://www.nzlbusiness.com/company/Grand-Meats-Limited"
+          }
+        ]
+      }
+    }
+  }
+}
